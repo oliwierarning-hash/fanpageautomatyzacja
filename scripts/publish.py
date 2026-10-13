@@ -28,9 +28,19 @@ def parse(raw):
     return meta, m.group(2).strip()
 
 
+def find_image(meta):
+    """Jeśli w images/ leży plik o tej samej nazwie co post, użyj go automatycznie."""
+    stem = meta.get("_stem")
+    for ext in ("jpg", "jpeg", "png"):
+        path = f"images/{stem}.{ext}"
+        if stem and os.path.exists(path):
+            return path
+    return None
+
+
 def publish(meta, text):
     link = meta.get("link")
-    image = meta.get("image")
+    image = meta.get("image") or find_image(meta)
     if image:
         caption = f"{text}\n\n{link}" if link else text
         with open(image, "rb") as f:
@@ -53,6 +63,8 @@ def main():
         with open(path, encoding="utf-8") as f:
             raw = f.read()
         meta, text = parse(raw)
+        if meta is not None:
+            meta["_stem"] = os.path.splitext(os.path.basename(path))[0]
         if meta is None:
             print(f"POMINIĘTO (zły format): {path}")
             continue
