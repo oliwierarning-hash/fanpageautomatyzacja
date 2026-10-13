@@ -1,6 +1,6 @@
 ---
-publish_at: 2026-10-20T09:00:00+02:00
-status: draft
+publish_at: 2026-10-13T12:00:00+02:00
+status: ready
 link: https://phinance.pl
 ---
 Planowanie finansowe to nie tylko inwestowanie.
