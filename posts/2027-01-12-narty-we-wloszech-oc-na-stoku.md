@@ -1,5 +1,5 @@
 ---
-publish_at: 2027-01-12T17:00:00+01:00
+publish_at: 2027-01-12T09:00:00+01:00
 status: draft
 sprawdz: przepisy włoskie dotyczące OC na stoku, wysokość mandatu
 zrodlo: archive/2024-01-18
