@@ -39,3 +39,14 @@ python3 scripts/export_posts.py --limit 200 --insights
 
 Zapisuje posty do `archive/` (po jednym pliku `.md` + `index.csv` z reakcjami, komentarzami, zasięgiem).
 Wymaga uprawnień `pages_read_engagement` i `pages_read_user_content`.
+
+## Grafiki do postów
+
+Są dwa sposoby, żeby post wyszedł ze zdjęciem:
+
+1. Wrzuć plik do `images/` o **takiej samej nazwie jak post**, np. `images/2026-12-01-obligacje-skarbowe-od-100-zl.jpg` (też `.jpeg` lub `.png`). Skrypt sam go znajdzie.
+2. Albo wpisz ścieżkę w nagłówku posta: `image: images/grafika.jpg`.
+
+Gdy jest grafika, tekst posta trafia jako podpis zdjęcia. Posty bez grafiki wychodzą jako zwykły tekst.
+
+W szkicach z archiwum pole `sprawdz:` wskazuje fakty do weryfikacji przed zmianą na `ready`, a `zrodlo:` wskazuje oryginał w `archive/`. Skrypt ignoruje oba pola.
