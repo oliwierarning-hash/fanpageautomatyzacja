@@ -2,7 +2,7 @@
 publish_at: 2027-07-20T09:00:00+02:00
 status: draft
 sprawdz: terminy przeglądów w aktualnych przepisach
-zrodlo: archive/2025-04-29
+zrodlo: archive/2025-04-29-698162179411951.md
 ---
 🏠 Masz polisę domu, ale czy masz aktualne przeglądy? Bez nich ubezpieczyciel może odmówić wypłaty, jeśli szkoda wynika z awarii zaniedbanej instalacji. 🔍
 

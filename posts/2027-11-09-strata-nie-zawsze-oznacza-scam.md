@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-11-09T09:00:00+01:00
 status: draft
-zrodlo: archive/2026-02-12
+zrodlo: archive/2026-02-12-922803643614469.md
 ---
 Jeśli ktoś mówi Ci, że to inwestycja z gwarantowanym zyskiem, włącz czerwoną lampkę. 🚨
 

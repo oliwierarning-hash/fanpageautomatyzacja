@@ -2,7 +2,7 @@
 publish_at: 2027-11-23T09:00:00+01:00
 status: draft
 sprawdz: streszczenie koncepcji Kiyosakiego
-zrodlo: archive/2026-03-12
+zrodlo: archive/2026-03-12-945345308026969.md
 ---
 🧭 Co Tyson mógł zrobić inaczej? Wystarczy spojrzeć na to, dokąd płyną pieniądze. Robert Kiyosaki opisuje trzy modele:
 

@@ -2,7 +2,7 @@
 publish_at: 2027-09-21T09:00:00+02:00
 status: draft
 sprawdz: przepisy dotyczące zwrotu prowizji i składek
-zrodlo: archive/2024-05-09
+zrodlo: archive/2024-05-09-457644873463684.md
 ---
 💸 Chcesz spłacić kredyt hipoteczny wcześniej? Pięć rzeczy do sprawdzenia:
 

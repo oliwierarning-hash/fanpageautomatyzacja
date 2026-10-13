@@ -2,7 +2,7 @@
 publish_at: 2027-08-17T09:00:00+02:00
 status: draft
 sprawdz: kryteria banków i limity wieku
-zrodlo: archive/2024-05-23
+zrodlo: archive/2024-05-23-466414389253399.md
 ---
 Cześć! 👋
 

@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-06-08T09:00:00+02:00
 status: draft
-zrodlo: archive/2025-10-08
+zrodlo: archive/2025-10-08-822957763599058.md
 ---
 Najlepsza polisa to nie ta najtańsza, tylko ta, która pasuje do Twojego życia. Trzy błędy, które widzę najczęściej:
 

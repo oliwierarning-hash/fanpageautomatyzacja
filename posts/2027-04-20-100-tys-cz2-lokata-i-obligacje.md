@@ -2,7 +2,7 @@
 publish_at: 2027-04-20T09:00:00+02:00
 status: draft
 sprawdz: oprocentowanie lokat i obligacji
-zrodlo: archive/2025-02-04
+zrodlo: archive/2025-02-04-635874665640703.md
 ---
 🚀 Droga do pierwszych 100 000 zł, część 2: masz już kilka tysięcy odłożone. Co dalej?
 

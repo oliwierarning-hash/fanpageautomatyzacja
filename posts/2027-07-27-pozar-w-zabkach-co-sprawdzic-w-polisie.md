@@ -2,7 +2,7 @@
 publish_at: 2027-07-27T09:00:00+02:00
 status: draft
 sprawdz: fakty o pożarze w Ząbkach i czy temat jest jeszcze aktualny
-zrodlo: archive/2025-07-07
+zrodlo: archive/2025-07-07-748790607682441.md
 ---
 Po pożarze w Ząbkach ponad 500 osób straciło dach nad głową. Choć nie było ofiar śmiertelnych, straty materialne są ogromne. 🏚️
 

@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-05-11T09:00:00+02:00
 status: draft
-zrodlo: archive/2025-03-14
+zrodlo: archive/2025-03-14-663167772911392.md
 ---
 🎯 Finał: droga do pierwszych 100 000 zł
 

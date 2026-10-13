@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-05-18T09:00:00+02:00
 status: draft
-zrodlo: archive/2025-09-18
+zrodlo: archive/2025-09-18-806135985281236.md
 ---
 Co roku spotykam osoby, które dopiero w obliczu tragedii dowiadują się, że ich polisa nie działa. Albo działa, ale tylko trochę. 🛡️
 

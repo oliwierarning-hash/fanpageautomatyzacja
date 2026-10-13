@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-03-02T09:00:00+01:00
 status: draft
-zrodlo: archive/2024-07-09
+zrodlo: archive/2024-07-09-494257379802433.md
 ---
 Kupowanie obcych walut za gotówkę wydaje się proste. Wchodzisz do kantoru, kupujesz, chowasz do szuflady i czekasz, aż kurs pójdzie w górę. 💶
 

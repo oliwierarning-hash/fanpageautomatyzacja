@@ -3,7 +3,7 @@ publish_at: 2027-12-28T09:00:00+01:00
 status: draft
 link: https://phinance.pl
 sprawdz: czy model wynagradzania (usługa dla klienta za 0 zł) jest nadal opisany prawidłowo
-zrodlo: archive/2021-12-27
+zrodlo: archive/2021-12-27-105136788711322.md
 ---
 Zainteresowanie rynkiem finansowym pojawiło się u mnie już w liceum. Dziś pomagam ludziom wybierać najkorzystniejsze rozwiązania. 💼
 

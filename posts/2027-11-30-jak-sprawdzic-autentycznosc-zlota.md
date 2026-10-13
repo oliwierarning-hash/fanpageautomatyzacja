@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-11-30T09:00:00+01:00
 status: draft
-zrodlo: archive/2025-04-24
+zrodlo: archive/2025-04-24-694669709761198.md
 ---
 🔎 Zanim kupisz złoto, upewnij się, że jest prawdziwe. Kilka sposobów weryfikacji:
 

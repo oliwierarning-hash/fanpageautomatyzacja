@@ -2,7 +2,7 @@
 publish_at: 2027-03-23T09:00:00+01:00
 status: draft
 sprawdz: limit wpłat, opłaty i zasady opodatkowania OIPE
-zrodlo: archive/2024-07-18
+zrodlo: archive/2024-07-18-499509489277222.md
 ---
 OIPE to dobrowolny produkt emerytalny, który w Polsce dostępny jest od 26 września 2023 roku. Dużo osób o nim nie słyszało. 🇪🇺
 

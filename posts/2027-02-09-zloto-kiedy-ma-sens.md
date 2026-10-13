@@ -2,7 +2,7 @@
 publish_at: 2027-02-09T09:00:00+01:00
 status: draft
 sprawdz: ceny złota i zasady opodatkowania
-zrodlo: archive/2024-06-25
+zrodlo: archive/2024-06-25-485872487307589.md
 ---
 Cześć! 👋
 

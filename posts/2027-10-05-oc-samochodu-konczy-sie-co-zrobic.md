@@ -2,7 +2,7 @@
 publish_at: 2027-10-05T09:00:00+02:00
 status: draft
 sprawdz: przepisy o wypowiedzeniu OC
-zrodlo: archive/2024-01-30
+zrodlo: archive/2024-01-30-399857399242432.md
 ---
 🚗 Kończy Ci się OC samochodu? Trzy sytuacje i co zrobić w każdej.
 

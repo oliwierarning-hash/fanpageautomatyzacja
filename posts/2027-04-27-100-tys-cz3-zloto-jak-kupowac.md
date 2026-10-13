@@ -2,7 +2,7 @@
 publish_at: 2027-04-27T09:00:00+02:00
 status: draft
 sprawdz: podatek przy sprzedaży złota inwestycyjnego i dostawcy
-zrodlo: archive/2025-02-17
+zrodlo: archive/2025-02-17-645170491377787.md
 ---
 🪙 Droga do pierwszych 100 000 zł, część 3: złoto
 

@@ -2,7 +2,7 @@
 publish_at: 2027-02-16T09:00:00+01:00
 status: draft
 sprawdz: czy zasady podatkowe nadal się zgadzają
-zrodlo: archive/2024-06-27
+zrodlo: archive/2024-06-27-487086210519550.md
 ---
 Kupujesz działkę lub mieszkanie jako inwestycję? Zanim podpiszesz umowę, sprawdź plan zagospodarowania przestrzennego (MPZP). 🏠
 

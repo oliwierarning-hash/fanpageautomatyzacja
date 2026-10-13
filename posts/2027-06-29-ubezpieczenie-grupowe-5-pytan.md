@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-06-29T09:00:00+02:00
 status: draft
-zrodlo: archive/2024-04-09
+zrodlo: archive/2024-04-09-439712965256875.md
 ---
 Masz ubezpieczenie grupowe w pracy? Zadaj sobie cztery pytania o zapisy dotyczące śmierci. 🛡️
 

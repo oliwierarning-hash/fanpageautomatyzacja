@@ -2,7 +2,7 @@
 publish_at: 2027-11-16T09:00:00+01:00
 status: draft
 sprawdz: kwoty z kariery Tysona i data upadłości
-zrodlo: archive/2026-02-19
+zrodlo: archive/2026-02-19-928808016347365.md
 ---
 💸 400 milionów dolarów i bankructwo. Mike Tyson zarobił w karierze od 400 do nawet 700 milionów, a w 2003 roku ogłosił upadłość z długiem 23 milionów.
 

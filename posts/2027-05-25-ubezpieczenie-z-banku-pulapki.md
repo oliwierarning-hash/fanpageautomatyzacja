@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-05-25T09:00:00+02:00
 status: draft
-zrodlo: archive/2025-09-24
+zrodlo: archive/2025-09-24-810961334798701.md
 ---
 Bierzesz kredyt hipoteczny, a bank proponuje ubezpieczenie na życie. Brzmi rozsądnie, ale warto przyjrzeć się szczegółom. 🏦
 

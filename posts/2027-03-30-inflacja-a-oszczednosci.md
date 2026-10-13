@@ -2,7 +2,7 @@
 publish_at: 2027-03-30T09:00:00+02:00
 status: draft
 sprawdz: zastąpić dane z 2018-2023 aktualnymi, jeśli to możliwe
-zrodlo: archive/2024-12-03
+zrodlo: archive/2024-12-03-592766756618161.md
 ---
 ❓ Co inflacja zrobiła z oszczędnościami w ciągu 5 lat?
 

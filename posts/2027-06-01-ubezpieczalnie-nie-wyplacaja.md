@@ -2,7 +2,7 @@
 publish_at: 2027-06-01T09:00:00+02:00
 status: draft
 sprawdz: dane o wypłatach z 2022 r., zaktualizować jeśli są nowsze
-zrodlo: archive/2024-11-08
+zrodlo: archive/2024-11-08-575852421642928.md
 ---
 ❗ „Ubezpieczalnie nie wypłacają świadczeń". Słyszę to często i po części się z tym zgadzam.
 

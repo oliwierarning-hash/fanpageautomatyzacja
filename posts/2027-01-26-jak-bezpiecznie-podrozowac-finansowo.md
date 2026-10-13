@@ -1,7 +1,7 @@
 ---
 publish_at: 2027-01-26T09:00:00+01:00
 status: draft
-zrodlo: archive/2024-02-06
+zrodlo: archive/2024-02-06-404116495483189.md
 ---
 🗺️ Wypadki na wyjazdach zdarzają się częściej, niż myślimy: złamania na stoku, zgubiony bagaż, skręcona noga na kamienistej plaży, szkoda wyrządzona komuś przypadkiem.
 

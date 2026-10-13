@@ -2,7 +2,7 @@
 publish_at: 2027-08-31T09:00:00+02:00
 status: draft
 sprawdz: czy rządowe programy wkładu własnego nadal działają i na jakich zasadach
-zrodlo: archive/2024-05-21
+zrodlo: archive/2024-05-21-465146859380152.md
 ---
 🏠 Skąd wziąć wkład własny?
 

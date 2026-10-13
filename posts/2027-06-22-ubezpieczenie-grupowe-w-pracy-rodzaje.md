@@ -2,7 +2,7 @@
 publish_at: 2027-06-22T09:00:00+02:00
 status: draft
 sprawdz: składki i zakres ochrony grup zamkniętych
-zrodlo: archive/2024-03-13
+zrodlo: archive/2024-03-13-424093360152169.md
 ---
 Czy ubezpieczenie grupowe w pracy wystarczy? Zacznijmy od tego, jakie są rodzaje ubezpieczeń na życie. 🛡️
 
