@@ -29,3 +29,13 @@ Settings → Secrets and variables → Actions:
 ## Test bez publikowania
 
 Actions → „Publikuj posty” → Run workflow → zaznacz `dry_run`.
+
+## Eksport istniejących postów (archiwum do analizy stylu)
+
+```bash
+read -s "FB_PAGE_TOKEN?Token strony: "; export FB_PAGE_TOKEN; echo
+python3 scripts/export_posts.py --limit 200 --insights
+```
+
+Zapisuje posty do `archive/` (po jednym pliku `.md` + `index.csv` z reakcjami, komentarzami, zasięgiem).
+Wymaga uprawnień `pages_read_engagement` i `pages_read_user_content`.
