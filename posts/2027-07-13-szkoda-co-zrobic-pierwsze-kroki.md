@@ -4,18 +4,35 @@ status: draft
 sprawdz: dodać w komentarzu instrukcję zgłaszania szkody wybranego ubezpieczyciela
 zrodlo: archive/2024-09-20-540346928526811.md
 ---
-⚠️ Zdarzyła Ci się szkoda? Nie zostawaj z tym sam.
+⚠️ Zdarzyła Ci się szkoda? Co zrobić w pierwszych godzinach
 
-Zgłoszenie szkody to dokumenty, terminy i rozmowy z ubezpieczycielem. Wiele osób odpuszcza po pierwszej odmowie albo nie wie, od czego zacząć.
+Zgłoszenie szkody to dokumenty, terminy i rozmowy z ubezpieczycielem. Wiele osób odpuszcza po pierwszej odmowie albo nie wie, od czego zacząć. A od tego, co zrobisz na początku, zależy, ile odszkodowania dostaniesz i jak szybko.
 
-Na początek:
-1️⃣ Zadbaj o bezpieczeństwo i, jeśli trzeba, wezwij służby.
-2️⃣ Zrób zdjęcia i zapisz okoliczności zdarzenia.
-3️⃣ Zgłoś szkodę jak najszybciej i zachowaj numer zgłoszenia.
-4️⃣ Zbierz dokumenty potwierdzające wartość strat.
+1️⃣ Zadbaj o bezpieczeństwo
+Jeśli ktoś ucierpiał, wezwij służby pod numerem alarmowym 112. Zabezpiecz miejsce zdarzenia, żeby szkoda się nie powiększyła, np. zakręć wodę, odetnij prąd, wyłącz gaz.
 
-Pomagam w likwidacji szkód, więc odszkodowanie dostajesz szybciej i z mniejszym stresem. W komentarzu zostawiam instrukcję jednej z firm ubezpieczeniowych, jak zgłosić szkodę od początku do końca.
+2️⃣ Zbierz dowody
+Zrób zdjęcia i nagrania uszkodzeń z kilku ujęć. Zapisz datę, godzinę i okoliczności. Zanotuj dane świadków. Nie wyrzucaj zniszczonych rzeczy, dopóki ubezpieczyciel ich nie obejrzy.
 
-Masz szkodę? Napisz, powiem, co robić dalej. 📩
+3️⃣ Zgłoś szkodę jak najszybciej
+Większość ubezpieczycieli ma formularze online albo infolinię. Zgłoś szkodę i zachowaj numer zgłoszenia. W polisie sprawdź, w jakim terminie trzeba to zrobić.
+
+4️⃣ Przygotuj dokumenty
+Polisa, dowód tożsamości, dokumenty potwierdzające wartość strat: paragony, faktury, zdjęcia, kosztorysy napraw. Przy wypadkach też notatka policji, dokumentacja medyczna.
+
+5️⃣ Przeczytaj decyzję ubezpieczyciela
+Sprawdź, czy kwota odpowiada szkodzie i czy odmowa jest uzasadniona. Jeśli się nie zgadzasz, możesz się odwołać w wyznaczonym terminie.
+
+❗ Częste błędy:
+● Zwlekanie ze zgłoszeniem.
+● Wyrzucenie zniszczonych rzeczy.
+● Brak dokumentów potwierdzających wartość.
+● Przyjęcie pierwszej kwoty bez sprawdzenia.
+
+Pomagam klientom w sprawnej likwidacji szkód, dzięki czemu odszkodowanie dostają szybciej i z mniejszym stresem. W komentarzu zostawiam instrukcję jednej z firm ubezpieczeniowych, jak zgłosić szkodę od A do Z.
+
+💬 Masz szkodę? Zadzwoń albo napisz, powiem, co robić dalej.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #szkoda #odszkodowanie #ubezpieczenia

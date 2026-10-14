@@ -4,24 +4,34 @@ status: draft
 sprawdz: terminy przeglądów w aktualnych przepisach
 zrodlo: archive/2025-04-29-698162179411951.md
 ---
-🏠 Masz polisę domu, ale czy masz aktualne przeglądy? Bez nich ubezpieczyciel może odmówić wypłaty, jeśli szkoda wynika z awarii zaniedbanej instalacji. 🔍
+🏠 Masz ubezpieczenie domu, ale czy pamiętasz o przeglądach technicznych? 🔍
 
-🔧 Raz w roku:
-🔹 instalacja gazowa,
-🔹 przewody kominowe (dymowe, spalinowe i wentylacyjne),
-🔹 urządzenia ochrony środowiska: szambo, biologiczne oczyszczalnie, pompy ciepła.
+Twój dom jest zabezpieczony polisą, ale to nie wystarczy. Jeśli nie wykonasz obowiązkowych przeglądów instalacji i urządzeń, ubezpieczyciel może odmówić wypłaty odszkodowania, gdy szkoda wyniknie z awarii zaniedbanej instalacji. Oto, co warto mieć na uwadze:
 
-🏗️ Raz na 5 lat:
-🔹 instalacja elektryczna,
-🔹 instalacja odgromowa,
-🔹 generalny przegląd budynku.
+🔧 Przeglądy coroczne (co najmniej raz w roku):
+🔹 Instalacja gazowa.
+🔹 Przewody kominowe: dymowe, spalinowe i wentylacyjne.
+🔹 Urządzenia ochrony środowiska: szambo, biologiczne oczyszczalnie, pompy ciepła.
 
-🔥 Kotły (jeśli masz własny system grzewczy):
-🔹 na paliwo ciekłe lub stałe powyżej 100 kW: co 2 lata,
-🔹 gazowe powyżej 100 kW: co 4 lata.
+🏗️ Przeglądy pięcioletnie (co najmniej raz na 5 lat):
+🔹 Instalacja elektryczna.
+🔹 Instalacja odgromowa.
+🔹 Generalny przegląd budynku.
 
-Wpisz terminy w kalendarz i trzymaj protokoły. To Twój dowód w razie sporu z ubezpieczycielem, a przegląd kosztuje mniej niż utrata odszkodowania.
+🔥 Przeglądy kotłów (jeśli masz własny system grzewczy):
+🔹 Kotły na paliwo ciekłe lub stałe o mocy powyżej 100 kW: przegląd co 2 lata.
+🔹 Kotły gazowe o mocy powyżej 100 kW: przegląd co 4 lata.
 
-Potrzebujesz pomocy z organizacją przeglądów albo analizą polisy? Napisz do mnie. 📩
+✅ Podsumowanie:
+🔹 Zaplanuj przeglądy w kalendarzu. To niewielki koszt w porównaniu z utratą prawa do odszkodowania.
+🔹 Zachowaj dokumentację: protokoły i zaświadczenia z przeglądów to Twój dowód w razie sporu z ubezpieczycielem.
+🔹 Zleć przegląd osobie z uprawnieniami. Tylko specjalista oceni stan techniczny rzetelnie.
+🔹 Sprawdź w polisie, jakie przeglądy ubezpieczyciel uznaje za obowiązkowe. Wymagania mogą się różnić.
+
+🔒 Dbaj o swój dom i swoją polisę. Regularne przeglądy chronią mury i Twój spokój.
+
+💬 Potrzebujesz pomocy przy organizacji przeglądów albo analizy polisy? Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #ubezpieczeniedomu #przegladytechniczne #polisa

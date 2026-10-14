@@ -3,18 +3,29 @@ publish_at: 2027-04-13T09:00:00+02:00
 status: draft
 zrodlo: archive/2025-01-28-631026872792149.md
 ---
-💰 Droga do pierwszych 100 000 zł, część 1
+💰 Droga do pierwszych 100 000 zł, część 1: pierwszy krok
 
-Najtrudniejszy jest pierwszy krok. Moje trzy zasady na start:
+Zdradzę Ci sekret: najtrudniejszy jest pierwszy krok. Dlatego w tej serii pokażę Ci drogę od zera do pierwszej setki tysięcy, krok po kroku.
 
-1️⃣ Spisz miesięczne przychody i wydatki. Podziel je na potrzeby (czynsz, jedzenie) i zachcianki (restauracje). Wystarczy kartka albo aplikacja.
-2️⃣ Ustal kwotę, którą możesz odkładać. Nawet 50 zł ma sens, bo liczy się regularność.
-3️⃣ Załóż konto oszczędnościowe i ustaw automatyczny przelew tuż po wypłacie.
+Co radzę, jeśli chcesz zacząć? Oto trzy proste zasady:
 
-Ten trzeci krok zmienił u mnie najwięcej. Oszczędzam bez zastanawiania się, bo pieniądze znikają z konta, zanim zdążę je wydać.
+1️⃣ Spisz swój budżet.
+Usiądź z kartką i długopisem albo użyj aplikacji. Wypisz miesięczne przychody i wszystkie wydatki. Podziel je na potrzeby (czynsz, jedzenie, rachunki) i zachcianki (wyjścia do restauracji, subskrypcje). Dopiero wtedy zobaczysz, ile naprawdę możesz odkładać.
 
-W kolejnych częściach opowiem, co zrobić z odłożoną kwotą.
+2️⃣ Ustal kwotę oszczędzania.
+Nawet jeśli to tylko 50 zł miesięcznie, liczy się konsekwencja. Z czasem kwotę możesz zwiększać, np. o część każdej podwyżki.
 
-Chcesz pomocy z budżetem? Napisz do mnie. 📩
+3️⃣ Otwórz konto oszczędnościowe i ustaw automatyczny przelew.
+Dla mnie to był kluczowy moment. Przelew ustawiłem tuż po wypłacie. Dzięki temu oszczędzam bez wysiłku i zastanawiania się, bo pieniądze znikają z konta, zanim zdążę je wydać.
+
+📌 Przy wyborze konta porównaj oprocentowanie, warunki promocji i to, czy odsetki są naliczane od całej kwoty. Dobre konto oszczędnościowe to bezpieczne miejsce na pierwsze tysiące złotych i na poduszkę finansową.
+
+✔️ Po pierwszych 3 do 6 miesiącach regularnego odkładania zobaczysz, że to naprawdę działa i że nawyk jest ważniejszy niż kwota.
+
+W kolejnych częściach opowiem, co zrobić z odłożonymi pieniędzmi, żeby zaczęły pracować.
+
+💬 Chcesz pomocy z budżetem domowym? Zadzwoń albo napisz do mnie.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #oszczedzanie #budzetdomowy #100tys

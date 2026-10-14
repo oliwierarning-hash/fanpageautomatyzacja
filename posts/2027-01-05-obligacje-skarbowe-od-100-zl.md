@@ -4,19 +4,32 @@ status: draft
 sprawdz: oprocentowanie, opłaty za wcześniejszy wykup i dostępne emisje
 zrodlo: archive/2024-06-12-478067601421411.md
 ---
-Cześć! 👋
+Obligacje skarbowe: bezpieczne oszczędzanie od 100 zł 🇵🇱
 
-Od 100 zł możesz kupować obligacje skarbowe. Odsetki naliczają się codziennie, a za ich wypłatę ręczy Skarb Państwa.
+Cześć! ✌️ Zastanawiasz się, jak chronić pieniądze przed inflacją i zacząć systematycznie budować kapitał? Obligacje skarbowe to jedno z najprostszych narzędzi.
 
-Są trzy rodzaje:
-🔹 ze stałym oprocentowaniem, dla przewidywalnego dochodu,
-🔹 ze zmiennym, powiązanym ze stopą referencyjną NBP,
-🔹 indeksowane inflacją, które mają chronić siłę nabywczą oszczędności.
+✔️ Dlaczego warto?
+● Za wypłatę odsetek i wykup obligacji odpowiada Skarb Państwa, więc poziom bezpieczeństwa jest wysoki.
+● Oprocentowanie jest stałe albo indeksowane inflacją. Zwykle jest wyższe niż na lokatach bankowych.
+● Znasz warunki emisji przed zakupem, więc decydujesz świadomie.
+● Kupisz je już od 100 zł.
+● Odsetki naliczają się codziennie według tabeli odsetkowej danej emisji.
+● Możesz wykupić je przed terminem. Opłata zależy od emisji i wynosi zwykle od 0,1% do 2%.
 
-Obligację można wykupić przed terminem. Opłata zależy od emisji i wynosi zwykle od 0,1% do 2%.
+❓ Jakie są rodzaje?
+🔹 Ze stałym oprocentowaniem: dają stały dochód w określonym czasie.
+🔹 Ze zmiennym: oprocentowanie zależy od stopy referencyjnej NBP.
+🔹 Indeksowane inflacją: mają chronić oszczędności przed utratą wartości przy wzroście cen.
 
-Kiedy je odpuścić? Gdy większość Twojego majątku to już polskie obligacje, bo brakuje wtedy różnorodności. Albo gdy odkładasz drobne kwoty co miesiąc, a każda emisja wymagałaby osobnej uwagi. Wtedy prostsze rozwiązanie sprawdzi się lepiej.
+❗ Kiedy nie warto?
+● Gdy większość Twojego majątku to już polskie obligacje skarbowe. Majątek warto rozproszyć.
+● Gdy dopiero budujesz oszczędności i odkładasz drobne kwoty co miesiąc. Wtedy każda emisja wymagałaby osobnej uwagi, więc lepiej zacząć od czegoś prostszego.
+● Gdy nie masz czasu porównywać nowych emisji. Warunki często się zmieniają i warto kupować obligacje z nowych serii.
 
-Zastanawiasz się, czy obligacje pasują do Twojego planu? Napisz do mnie. 📩
+💰 Czy się opłaca? Jeśli Twoje pieniądze leżą na lokacie albo koncie oszczędnościowym, nie masz innych oszczędności i nie kupiłeś jeszcze obligacji, odpowiedź zwykle brzmi: tak.
+
+💬 Chcesz sprawdzić, czy obligacje pasują do Twojego planu? Zadzwoń albo napisz do mnie.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #obligacje #oszczedzanie #inflacja

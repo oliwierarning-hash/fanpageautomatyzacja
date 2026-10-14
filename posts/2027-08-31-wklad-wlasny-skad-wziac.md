@@ -4,19 +4,34 @@ status: draft
 sprawdz: czy rządowe programy wkładu własnego nadal działają i na jakich zasadach
 zrodlo: archive/2024-05-21-465146859380152.md
 ---
-🏠 Skąd wziąć wkład własny?
+🏠 Skąd wziąć wkład własny na pierwsze mieszkanie?
 
-Klient zapytał mnie ostatnio, jak zebrać pieniądze na wkład własny. Dobra wiadomość: nie zawsze trzeba mieć całe 20%.
+Klient zapytał mnie ostatnio, jak zebrać pieniądze na wkład własny. To jedno z najczęstszych pytań osób, które planują zakup mieszkania.
 
-Bank zwykle oczekuje około 20% wartości mieszkania. Jeśli wkład jest niższy, zdolność kredytowa spada, a dodatkowo może pojawić się ubezpieczenie niskiego wkładu własnego, za które płacisz więcej.
+❓ Ile wkładu potrzebujesz?
+Bank zwykle oczekuje około 20% wartości nieruchomości. Przy niższym wkładzie zdolność kredytowa spada, a dodatkowo często trzeba wykupić ubezpieczenie niskiego wkładu własnego, które podnosi koszt kredytu.
 
-Jak zbierać:
-🔹 ustaw stały przelew na konto oszczędnościowe tuż po wypłacie,
-🔹 trzymaj osobno pieniądze na wkład i na poduszkę finansową,
-🔹 sprawdź programy rządowe. Niektóre działały tak, że gwarancja Banku Gospodarstwa Narodowego zastępowała wkład własny, co pozwalało wziąć kredyt na 100% ceny.
+👪 Program rządowy zamiast wkładu
+Jedną z możliwości był Rodzinny Kredyt Mieszkaniowy (RKM). Program oferował gwarancję Banku Gospodarstwa Narodowego dla części kredytu hipotecznego, która zastępowała wymóg wkładu własnego. Można było kupić pierwsze mieszkanie bez wpłacania własnych pieniędzy.
 
-Zasady takich programów zmieniają się, więc zanim zaczniesz planować, sprawdź, co działa teraz.
+Z programu mogły skorzystać osoby:
+● bez wkładu własnego albo z wkładem nie wyższym niż 200 tys. zł,
+● bez innego mieszkania lub domu jednorodzinnego (wyjątek dla rodzin z co najmniej dwojgiem dzieci),
+● ze zdolnością kredytową.
 
-Pomogę Ci ustalić plan na wkład własny. Napisz do mnie. 📩
+Warunki zależały od miejscowości, w której kupowało się mieszkanie. BGK pokrywał wkład własny, a kredytobiorca mógł wziąć 100% kredytu.
+
+⚠️ Zasady takich programów zmieniają się albo programy się kończą, więc zanim zaczniesz planować, sprawdź na stronie BGK i u doradcy, co działa dziś.
+
+✔️ Jak zbierać wkład własny samodzielnie:
+1️⃣ Ustaw stały przelew na osobne konto oszczędnościowe tuż po wypłacie.
+2️⃣ Trzymaj oddzielnie pieniądze na wkład i na poduszkę finansową, żeby nie wydać ich na nagłe wydatki.
+3️⃣ Skorzystaj z produktów, które chronią oszczędności przed inflacją, jeśli horyzont to kilka lat.
+4️⃣ Policz, ile miesięcy zajmie Ci uzbieranie kwoty i czy ceny nie uciekną szybciej niż oszczędności.
+5️⃣ Przedstaw bankom pełną sytuację. Czasem wsparcie rodziny, np. darowizna, może uzupełnić wkład.
+
+💬 Chcesz ułożyć plan na wkład własny? Zadzwoń albo napisz, pomogę Ci go policzyć.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #wkladwlasny #kredythipoteczny #pierwszemieszkanie

@@ -1,21 +1,34 @@
 ---
 publish_at: 2026-12-08T09:00:00+01:00
 status: draft
-link: https://phinance.pl
 ---
-✈️ Wyjazd zimowy za granicę: lista kontrolna ubezpieczeniowa
+✈️ Wyjazd za granicę: lista kontrolna ubezpieczeniowa
 
-Cześć! 👋
+Cześć! 👋 Zbliżają się ferie i zimowe wyjazdy. Zanim spakujesz walizki, sprawdź cztery rzeczy, które mogą zaoszczędzić Ci tysiące złotych.
 
-Zbliżają się ferie i zimowe wyjazdy. Zanim spakujesz walizki, sprawdź cztery rzeczy:
+1️⃣ Karta EKUZ 🛡️
+Potwierdza, że masz prawo do leczenia w czasie wyjazdów turystycznych i zawodowych w większości krajów europejskich. Karta jest bezpłatna i można ją założyć przez stronę pacjent.gov.pl/ekuz. Uwaga: EKUZ nie finansuje całego leczenia. Daje dostęp do publicznie dostępnej ochrony zdrowia na zasadach obowiązujących w danym kraju.
 
-1️⃣ Karta EKUZ. Jest bezpłatna i daje prawo do publicznej opieki zdrowotnej w większości krajów Europy. Nie pokrywa jednak całości kosztów, np. transportu czy prywatnej kliniki.
-2️⃣ Ubezpieczenie turystyczne. Dodatkowa ochrona to realne wsparcie, gdy leczenie albo transport ze stoku okaże się kosztowny.
-3️⃣ Wariant sportowy. Jeśli jeździsz na nartach lub snowboardzie, standardowa polisa może tego nie obejmować.
-4️⃣ Bagaż i sprzęt. Sprawdź, czy telefon, laptop czy dron są objęte ochroną.
+2️⃣ Ubezpieczenie zdrowotne i turystyczne 🛡️
+Część usług medycznych w wielu krajach europejskich jest dodatkowo płatna. Założenie gipsu, konsultacja ze specjalistą albo transport ze stoku do szpitala może kosztować nawet kilkaset euro. Dobrze dobrana polisa pokrywa te koszty.
 
-Dobrze też wiedzieć, jakie przepisy obowiązują w kraju, do którego jedziesz. Niektóre wymagają np. OC na stoku.
+3️⃣ Wariant sportowy ⛷️
+Jeśli jedziesz na narty, snowboard czy w góry, sprawdź, czy polisa obejmuje te aktywności. Standardowa często ich nie obejmuje. Podobnie z pracą fizyczną za granicą, np. sezonową.
 
-Masz wątpliwości, co wybrać? Napisz do mnie. ☎️
+4️⃣ Bagaż i sprzęt 🧳
+Czy telefon, laptop, dron czy sprzęt sportowy są objęte ochroną? Sprawdź limity i warunki, np. kradzież z samochodu często jest wyłączona.
 
-#ubezpieczeniepodrozne #ferie #EKUZ
+📍 Co jeszcze sprawdzić?
+● Sumę ubezpieczenia kosztów leczenia. Za niska nie pokryje poważnego wypadku.
+● Transport medyczny do Polski.
+● OC w życiu prywatnym za granicą.
+● Wyłączenia: choroby przewlekłe, klauzula alkoholowa, sporty ekstremalne.
+● Przepisy kraju, do którego jedziesz. Niektóre wymagają np. OC na stoku.
+
+Najlepiej sprawdzić polisę, zanim wyjedziesz, a nie na miejscu, gdy jest już za późno.
+
+💬 Masz wątpliwości, co wybrać? Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
+
+#podroze #ubezpieczeniepodrozne #EKUZ

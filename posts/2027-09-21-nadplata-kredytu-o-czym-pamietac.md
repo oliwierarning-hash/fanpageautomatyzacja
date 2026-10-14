@@ -4,14 +4,32 @@ status: draft
 sprawdz: przepisy dotyczące zwrotu prowizji i składek
 zrodlo: archive/2024-05-09-457644873463684.md
 ---
-💸 Chcesz spłacić kredyt hipoteczny wcześniej? Pięć rzeczy do sprawdzenia:
+💸 Chcesz spłacić kredyt hipoteczny wcześniej? Pięć rzeczy, o których musisz pamiętać
 
-1️⃣ Umowa. Niektóre banki pobierają od 1% do 3% opłaty za częściową spłatę.
-2️⃣ Ubezpieczenia. Jeśli zapłaciłeś składkę jednorazowo za cały okres kredytu, możesz ubiegać się o zwrot za niewykorzystany czas.
-3️⃣ Prowizja. Przy wcześniejszej spłacie możesz wnioskować o jej częściowy zwrot.
-4️⃣ Gotówka pod ręką. Nie oddawaj bankowi wszystkich oszczędności. Przy chorobie albo wypadku możesz zostać bez środków.
-5️⃣ Negocjacje. Zanim spłacisz albo zrefinansujesz kredyt, poproś o niższą marżę. Zdarza się, że bank się zgadza.
+Każdy kredytobiorca marzy, żeby jak najszybciej pozbyć się zobowiązania. Zanim jednak wpłacisz nadpłatę albo spłacisz całość, sprawdź kilka rzeczy, które mogą zaoszczędzić Ci pieniędzy.
 
-Zastanawiasz się, czy nadpłata ma sens w Twojej sytuacji? Napisz, policzymy. 📩
+1️⃣ Sprawdź umowę
+Zobacz, czy częściowa i całkowita spłata kredytu wiąże się z dodatkowymi kosztami. Niektóre banki doliczają od 1% do 3% opłaty za częściową spłatę. Zapytaj też, jak bank rozlicza nadpłatę: skraca okres kredytu czy obniża ratę.
+
+2️⃣ Pamiętaj o zwrocie za niewykorzystany okres ubezpieczenia
+Banki dodają do kredytu różne produkty: ubezpieczenie na życie, mieszkania, od utraty dochodu. Jeśli składka została pobrana jednorazowo za cały okres umowy, przy wcześniejszej spłacie masz prawo ubiegać się o zwrot części składki za niewykorzystany okres.
+
+3️⃣ Zwróć uwagę na prowizję
+Przy wcześniejszej spłacie możesz wnioskować o zwrot części prowizji za udzielenie kredytu.
+
+4️⃣ Nie oddawaj bankowi wszystkich oszczędności
+Spłacenie kredytu całą gotówką bywa ryzykowne. W razie wypadku, choroby albo utraty pracy możesz zostać bez środków. Zachowaj poduszkę finansową na 3 do 6 miesięcy wydatków.
+
+5️⃣ Negocjuj z bankiem
+Zanim spłacisz albo zrefinansujesz kredyt, spróbuj wynegocjować lepsze warunki. Zdarza się, że po wniosku o renegocjację marży bank obniża oprocentowanie. Taki wniosek warto złożyć na piśmie.
+
+📊 Jak ocenić, czy nadpłata ma sens?
+● Porównaj oprocentowanie kredytu z tym, co mogłyby zarobić Twoje oszczędności po podatku.
+● Uwzględnij opłaty za wcześniejszą spłatę.
+● Uwzględnij komfort psychiczny, ale nie kosztem bezpieczeństwa finansowego.
+
+💬 Zastanawiasz się, czy nadpłata ma sens w Twojej sytuacji? Zadzwoń albo napisz, policzymy.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #kredythipoteczny #nadplata #finanseosobiste

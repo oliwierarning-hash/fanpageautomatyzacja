@@ -4,16 +4,34 @@ status: draft
 sprawdz: przepisy o wypowiedzeniu OC
 zrodlo: archive/2024-01-30-399857399242432.md
 ---
-🚗 Kończy Ci się OC samochodu? Trzy sytuacje i co zrobić w każdej.
+🚗 Niedługo kończy się ubezpieczenie OC samochodu? Co należy zrobić?
 
-1️⃣ Nie pamiętasz, do kiedy masz ochronę. Sprawdź w UFG (ufg.pl), w aplikacji mObywatel albo napisz do mnie, zrobię to w 2 minuty.
+Brak OC grozi karą finansową, a przerwa w ochronie nawet o jeden dzień oznacza ryzyko. Oto trzy sytuacje i co zrobić w każdej.
 
-2️⃣ Zostajesz w tym samym towarzystwie. Zgodnie z ustawą ochrona powinna odnowić się automatycznie, ale lepiej nie zostawiać tego przypadkowi. Porównaj oferty różnych towarzystw, zanim zapłacisz.
+1️⃣ Nie pamiętasz, do kiedy masz ochronę, bo zgubiłeś polisę?
+Sprawdź to w:
+● ufg.pl, czyli w bazie Ubezpieczeniowego Funduszu Gwarancyjnego,
+● aplikacji mObywatel,
+● albo napisz do mnie, sprawdzę to w 2 minuty. 🙂
 
-3️⃣ Zmieniasz towarzystwo. Pamiętaj o wypowiedzeniu poprzedniej polisy, żeby uniknąć podwójnego ubezpieczenia. Formularz znajdziesz, wpisując w wyszukiwarkę „wypowiedzenie OC" i nazwę ubezpieczyciela. Złóż je osobiście. Jeśli leasingodawca albo pośrednik zapomni, to Ty zapłacisz za dwie polisy.
+2️⃣ Zostajesz w tym samym towarzystwie ubezpieczeniowym
+Według ustawy ochrona powinna zostać automatycznie odnowiona przez bieżącego ubezpieczyciela, ale lepiej nie zostawiać takich rzeczy przypadkowi. Porównaj oferty, zanim zapłacisz. Ta sama polisa u różnych towarzystw potrafi kosztować inaczej. Mogę dobrać ofertę spośród kilkunastu towarzystw.
 
-Ustawa o ubezpieczeniach obowiązkowych wymaga złożenia wypowiedzenia najpóźniej na jeden dzień przed końcem umowy.
+3️⃣ Zmieniasz towarzystwo ubezpieczeniowe
+Jeśli dostałeś lepszą ofertę, pamiętaj o wypowiedzeniu poprzedniej polisy OC, żeby uniknąć podwójnego ubezpieczenia. Wystarczy wpisać w wyszukiwarkę „wypowiedzenie OC" i nazwę ubezpieczyciela, pobrać formularz, wypełnić go i wysłać.
 
-Pomogę Ci porównać oferty kilkunastu towarzystw. Napisz do mnie. 📩
+⚠️ Zrób to osobiście. Osoby i podmioty, które deklarują, że zajmą się wypowiedzeniem, też bywają zapominalskie. To Twój interes wypowiedzieć OC. Jeśli leasingodawca zapomni to zrobić, nie będzie to argument za cofnięciem ochrony i możesz zapłacić za dwie polisy.
+
+📅 Ustawa o ubezpieczeniach obowiązkowych (art. 28 ust. 1) mówi, że właściciel pojazdu powinien złożyć wypowiedzenie nie później niż na jeden dzień przed końcem umowy ubezpieczenia OC.
+
+✔️ Lista kontrolna:
+● Sprawdź datę końca polisy.
+● Porównaj oferty na 3 do 4 tygodni przed końcem.
+● Wypowiedz starą polisę, jeśli zmieniasz towarzystwo.
+● Zachowaj potwierdzenie wypowiedzenia i nowej polisy.
+
+💬 Pomogę Ci porównać oferty kilkunastu towarzystw. Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #OC #ubezpieczeniesamochodu #polisa

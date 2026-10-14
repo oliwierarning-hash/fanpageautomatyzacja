@@ -1,16 +1,29 @@
 ---
 publish_at: 2027-12-14T09:00:00+01:00
 status: draft
-link: https://phinance.pl/kariera/
 sprawdz: aktualne stanowisko i dane do filmu; dodać plik wideo/zdjęcie
 zrodlo: archive/2025-01-22-1128639492601622.md
 ---
-Zaczynałem jako młody doradca finansowy w Phinance S.A., Biuro Poznań 6. Dziś prowadzę zespół. 🚀
+🚀 Moja droga: od młodego doradcy do kierownika zespołu
 
-Droga nie była prosta. Uczyłem się od doświadczonych doradców i zdobywałem kolejne licencje, w tym 21 uprawnień do sprzedaży ubezpieczeń w różnych towarzystwach.
+Zainteresowanie rynkiem finansowym pojawiło się u mnie już w liceum. Dziś pomagam klientom w Poznaniu wybierać najkorzystniejsze rozwiązania, a jednocześnie prowadzę zespół doradców.
 
-W nowym wideo opowiadam, co mnie motywowało, jakie wyzwania pokonałem i co przyspieszyło mój rozwój.
+Po kilku latach pracy zdobyłem 21 licencji Komisji Nadzoru Finansowego na dystrybucję ubezpieczeń w poszczególnych towarzystwach. Dzięki temu mogę skupić się na analizie realnych potrzeb klienta, a nie na jednym produkcie. W kolejnych miesiącach czekają mnie następne egzaminy i szkolenia z wprowadzanych zmian.
 
-Jeśli chcesz zbudować karierę w finansach i szukasz firmy, która wspiera współpracowników, zajrzyj na stronę. Możesz też napisać do mnie. 📩
+🎥 W nowym wideo opowiadam, co mnie motywowało, jakie wyzwania pokonałem i co przyspieszyło mój rozwój.
 
-#kariera #doradztwofinansowe #phinance
+💡 Co poradziłbym osobom, które myślą o karierze w finansach?
+● Zdobywaj licencje i wiedzę. W tej branży ona buduje zaufanie.
+● Ucz się od doświadczonych doradców i pytaj o konkretne przypadki.
+● Rozmawiaj z klientami. Najwięcej uczy praktyka, a nie tylko teoria.
+● Bądź uczciwy wobec klienta, nawet gdy to oznacza, że produkt, który chciałbyś sprzedać, mu nie pasuje.
+
+Prowadzenie zespołu to też odpowiedzialność za to, żeby każda osoba pracowała według tych samych zasad: najpierw potrzeby klienta, potem produkt.
+
+📍 Jeśli myślisz o pracy w finansach albo szukasz doradcy, który działa według takich zasad, odezwij się.
+
+💬 Zadzwoń albo napisz do mnie.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
+
+#kariera #doradztwofinansowe #rozwoj

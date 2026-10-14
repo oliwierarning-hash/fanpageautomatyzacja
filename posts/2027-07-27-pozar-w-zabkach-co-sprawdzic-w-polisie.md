@@ -4,16 +4,29 @@ status: draft
 sprawdz: fakty o pożarze w Ząbkach i czy temat jest jeszcze aktualny
 zrodlo: archive/2025-07-07-748790607682441.md
 ---
-Po pożarze w Ząbkach ponad 500 osób straciło dach nad głową. Choć nie było ofiar śmiertelnych, straty materialne są ogromne. 🏚️
+🏚️ Pożar w Ząbkach: co ta historia mówi o ubezpieczeniu mieszkania
 
-Jeden pożar wystarczył, by setki rodzin zostały bez domu i rzeczy osobistych. Dla wielu z nich polisa stała się jedyną realną pomocą.
+Ponad 500 osób straciło dach nad głową po pożarze w Ząbkach. Choć nie było ofiar śmiertelnych, straty materialne są ogromne. Wystarczył jeden pożar, by setki rodzin zostały bez domu, bez rzeczy osobistych, bez poczucia bezpieczeństwa.
 
-Warto więc teraz sprawdzić swoją:
-🔍 czy ochrona nadal obowiązuje i czy jest ciągła,
-🔍 co dokładnie obejmuje, a czego nie,
-🔍 jakie ma wyłączenia (brak przeglądów technicznych może wykluczyć wypłatę),
-🔍 czy suma ubezpieczenia odpowiada obecnej wartości mienia.
+❗ To przypomnienie dla nas wszystkich: ubezpieczenie domu lub mieszkania to nie „papier na wszelki wypadek". To realna pomoc w sytuacjach, które mogą zdarzyć się nagle i każdemu.
 
-Lepiej sprawdzić dziś niż żałować jutro. Pomagam w analizie i doborze polisy dopasowanej do Twojej sytuacji. Wystarczy wiadomość. 📩
+🔍 Zadbaj o swoje bezpieczeństwo i sprawdź:
+● Czy Twoje ubezpieczenie nadal obowiązuje. Ciągłość ochrony ma znaczenie.
+● Co dokładnie obejmuje polisa i czego nie obejmuje.
+● Jakie ma wyłączenia odpowiedzialności. Na przykład brak przeglądów technicznych może wykluczyć wypłatę.
+● Czy suma ubezpieczenia odpowiada obecnej wartości Twojego mienia. Ceny remontów i wyposażenia wzrosły, a polisa sprzed kilku lat mogła się zdezaktualizować.
+● Czy polisa obejmuje ruchomości domowe, stałe elementy (podłogi, zabudowy) i koszty zakwaterowania zastępczego.
+● Czy masz OC w życiu prywatnym, które pokryje szkody u sąsiadów, np. po zalaniu albo pożarze.
+
+📍 Co jeszcze możesz zrobić?
+● Zrób spis i zdjęcia swojego majątku. Po szkodzie to ułatwia zgłoszenie.
+● Zadbaj o sprawną instalację i czujniki dymu oraz czadu.
+● Wiedz, do kogo zadzwonić po szkodzie.
+
+✅ Lepiej sprawdzić dziś niż żałować jutro.
+
+💬 Pomagam w analizie i doborze ubezpieczenia dopasowanego do Twojej sytuacji. Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #ubezpieczeniedomu #pozar #bezpieczenstwo

@@ -4,23 +4,29 @@ status: draft
 sprawdz: limit wpłat, opłaty i zasady opodatkowania OIPE
 zrodlo: archive/2024-07-18-499509489277222.md
 ---
-OIPE to dobrowolny produkt emerytalny, który w Polsce dostępny jest od 26 września 2023 roku. Dużo osób o nim nie słyszało. 🇪🇺
+OIPE: nowy produkt emerytalny, o którym mało kto słyszał 🇪🇺
 
-Co oferuje:
-✔️ Zwolnienie z 19% podatku od zysków kapitałowych przy wypłacie po 60. roku życia.
-✔️ Wybór funduszy inwestycyjnych z różnych kategorii.
-✔️ Wcześniejszą wypłatę, np. przy ciężkiej chorobie lub utracie pracy.
-✔️ Dziedziczenie zgromadzonych środków.
-✔️ Bezpłatny transfer na IKE.
-✔️ Wpłaty w euro.
-✔️ Opłatę za zarządzanie do 1% rocznie.
+Cześć! ✌️ Od 26 września 2023 roku w Polsce dostępny jest Ogólnoeuropejski Indywidualny Produkt Emerytalny, czyli OIPE.
 
-Dodatkowo OIPE działa pod nadzorem polskich i unijnych instytucji.
+❓ Czym jest?
+To dobrowolny produkt emerytalny, nadzorowany przez polskie i unijne instytucje. Ma zapewnić dodatkowy dochód na emeryturę obok emerytury z ZUS i innych oszczędności, jak OFE, IKE, IKZE czy PPK.
 
-Limit wpłat zmienia się co roku, więc sprawdź aktualny, zanim zaplanujesz wpłatę.
+✔️ Co oferuje?
+● Zwolnienie z 19% podatku od zysków kapitałowych przy wypłacie po 60. roku życia.
+● Wybór funduszy inwestycyjnych z różnych kategorii, żeby dopasować strategię do siebie.
+● Możliwość wcześniejszej wypłaty, np. przy ciężkiej chorobie albo utracie pracy.
+● Dziedziczenie: zgromadzone środki można przekazać w spadku.
+● Bezpłatny transfer środków na IKE.
+● Wpłaty w euro, co może dodatkowo chronić oszczędności.
+● Automatyczne strategie, które dostosowują się do wieku i profilu ryzyka.
+● Opłatę za zarządzanie na poziomie maksymalnie 1% rocznie.
 
-Moim zdaniem warto się nad nim zastanowić, jeśli myślisz o emeryturze poza ZUS.
+📌 Limity wpłat zmieniają się co roku, więc przed wpłatą sprawdź aktualny.
 
-Chcesz porównać OIPE z IKE i IKZE? Napisz do mnie. 📩
+👉 Moim zdaniem warto rozważyć OIPE, jeśli myślisz o emeryturze poza ZUS i chcesz mieć wybór funduszy oraz możliwość przeniesienia środków. Zanim podpiszesz umowę, porównaj opłaty, dostępne fundusze i warunki wypłaty u różnych dostawców.
+
+💬 Chcesz porównać OIPE z IKE i IKZE i sprawdzić, co pasuje do Ciebie? Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #OIPE #emerytura #oszczedzanie

@@ -4,23 +4,36 @@ status: draft
 sprawdz: wysokość wpłat, dopłat państwa i opodatkowanie
 zrodlo: archive/2024-07-02-490116276883210.md
 ---
-Cześć! ✌️
+PPK: czy warto zostać w programie? 🏦
 
-PPK to dobrowolny program oszczędzania, w którym wpłaty dzielicie z pracodawcą. Czy warto zostać?
+Cześć! ✌️ Pracownicze Plany Kapitałowe to temat, o który pytają mnie coraz częściej.
 
-Jak to działa:
-👉 Pracodawca wpłaca co najmniej 1,5% Twojego wynagrodzenia brutto.
-👉 Ty możesz zwiększyć swoją wpłatę do 4%.
-👉 Dokładają się też fundusze i państwo, w formie dofinansowania i premii rocznej.
+❓ Czym jest PPK?
+To dobrowolny program oszczędzania, w którym wpłaty dzielicie z pracodawcą. Pracodawca wpłaca co najmniej 1,5% Twojego wynagrodzenia brutto, a Ty możesz dobrowolnie zwiększyć swoją wpłatę do 4%. Dokładają się też fundusze i państwo, w postaci dofinansowania i premii rocznej.
 
-Plusy:
-🟢 Wyższy kapitał emerytalny.
-🟢 Środki można odziedziczyć.
-🟢 Część pieniędzy można wypłacić wcześniej, np. przy ciężkiej chorobie.
-🟢 Zyski nie podlegają podatkowi od zysków kapitałowych.
+🟢 Plusy:
+● Dodatkowe oszczędności na emeryturę, a tym samym szansa na wyższą emeryturę.
+● Dofinansowanie od państwa.
+● Możliwość wcześniejszej wypłaty części środków, np. przy ciężkiej chorobie.
+● Dziedziczenie: zgromadzone środki przechodzą na spadkobierców.
+● Zyski w PPK nie podlegają podatkowi od zysków kapitałowych przy wypłacie na warunkach emerytalnych.
 
-Minus: z PPK skorzystają tylko osoby na umowie o pracę. Jeśli prowadzisz działalność albo pracujesz na zleceniu, musisz oszczędzać na emeryturę inaczej.
+🔴 Minus:
+● Z PPK skorzystają tylko osoby zatrudnione na umowie o pracę. Jeśli prowadzisz działalność albo pracujesz na zleceniu, nie możesz do niego dołączyć.
 
-Nie wiesz, czy zostać w programie? Napisz, rozpiszemy to na Twoich liczbach. 📩
+🤔 Nadal nie jesteś przekonany?
+Środki z PPK możesz wypłacić w każdej chwili, ale wtedy dopłaty od państwa przepadają, a wpłaty pracodawcy są pomniejszone o 30%. Mimo to pierwszy miesiąc oszczędzania często daje wynik na plusie, bo pracodawca dokłada swoją część.
+
+❗ Pamiętaj:
+● Do PPK możesz dołączyć w każdej chwili.
+● Udział jest dobrowolny i możesz z niego zrezygnować.
+● Możesz wybrać fundusz o strategii dopasowanej do Twojego wieku i podejścia do ryzyka.
+● Warto porównać opłaty i wyniki funduszy.
+
+👉 PPK warto rozważyć, jeśli chcesz mieć wyższą emeryturę niż z samego ZUS, cenisz stabilność i szukasz sposobu na oszczędzanie, które dzieje się automatycznie.
+
+💬 Nie wiesz, czy zostać w PPK? Zadzwoń albo napisz, rozpiszemy to na Twoich liczbach.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #PPK #emerytura #oszczedzanie

@@ -4,18 +4,34 @@ status: draft
 sprawdz: zastąpić dane z 2018-2023 aktualnymi, jeśli to możliwe
 zrodlo: archive/2024-12-03-592766756618161.md
 ---
-❓ Co inflacja zrobiła z oszczędnościami w ciągu 5 lat?
+Co inflacja zrobiła z Twoimi oszczędnościami przez ostatnie lata? 📉
 
-Wyobraź sobie, że w 2018 roku masz 100 000 zł. Po uwzględnieniu inflacji w 2023 roku wyglądałoby to tak:
+Inflacja to cichy złodziej kapitału. Rośnie powoli, więc łatwo ją zignorować, ale po kilku latach różnica jest duża.
 
-🔹 Zwykłe konto bankowe: zostaje około 69 470 zł (strata około 30 530 zł).
-🔹 Lokaty bankowe: zostaje około 80 534 zł.
-🔹 Złoto (około 22,5 uncji): wartość rośnie do około 168 671 zł.
+Wyobraź sobie, że w 2018 roku miałeś 100 000 zł. Zobacz, co działo się z tym kapitałem do 2023 roku po uwzględnieniu inflacji:
 
-To przykład z konkretnych lat, nie prognoza. Złoto też potrafi tracić na wartości, a lokaty w innym okresie wypadają lepiej.
+1️⃣ Pieniądze na zwykłym rachunku bankowym
+Strata: około 30 530 zł
+Zostaje: około 69 470 zł
 
-Wniosek jest taki: nie musisz inwestować wszystkiego w złoto ani rezygnować z lokat. Warto jednak wiedzieć, jak każda forma oszczędzania zachowuje się w czasie, i zdecydować, które pieniądze chcesz zabezpieczyć przed inflacją.
+2️⃣ Lokaty bankowe
+Strata: około 19 466 zł
+Zostaje: około 80 534 zł
 
-Chcesz sprawdzić, co dzieje się z Twoimi oszczędnościami? Umów się na rozmowę. 💡
+3️⃣ Zakup złota (około 22,5 uncji)
+Zysk: około 68 671 zł
+Wartość: około 168 671 zł
+
+📌 Uwaga: to przykład z konkretnych lat, a nie prognoza. Złoto potrafi też długo tracić na wartości, a lokaty w innym okresie wypadają lepiej, kiedy oprocentowanie jest wyższe od inflacji.
+
+❓ Wnioski?
+● Inflacja to największy ukryty koszt trzymania pieniędzy bez planu.
+● Wystarczy świadomie zarządzać majątkiem. Nie musisz inwestować wszystkiego w złoto ani rezygnować z lokat.
+● Warto wiedzieć, jak każda forma oszczędzania zachowuje się w czasie, i dopasować ją do celu, terminu i tolerancji ryzyka.
+● Oszczędności na poduszkę i najbliższe wydatki trzymaj tam, gdzie są dostępne. Pieniądze, których nie ruszysz przez lata, możesz zabezpieczyć w obligacjach indeksowanych inflacją, złocie czy funduszach, pamiętając o ryzyku.
+
+💬 Chcesz sprawdzić, co dzieje się z Twoimi oszczędnościami? Zadzwoń albo napisz, umówmy się na rozmowę.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #inflacja #oszczedzanie #zloto

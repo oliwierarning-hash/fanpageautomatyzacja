@@ -1,23 +1,34 @@
 ---
 publish_at: 2026-12-22T09:00:00+01:00
 status: draft
-link: https://phinance.pl
+sprawdz: opis rejestru KNF i sposobu wynagradzania pośredników
 ---
 🔎 Jak sprawdzić, czy doradca naprawdę ma uprawnienia?
 
-Cześć! 👋
+Cześć! 👋 Powierzasz komuś pieniądze, ochronę rodziny albo plan na emeryturę. Warto wiedzieć, z kim rozmawiasz. Weryfikacja zajmie Ci dwie minuty.
 
-Pieniądze i ochronę rodziny powierzasz osobie, więc warto wiedzieć, z kim rozmawiasz. Zajmie Ci to dwie minuty.
+✔️ Krok 1: Rejestr agentów ubezpieczeniowych
+Wejdź na stronę rpu.knf.gov.pl, czyli publiczny rejestr prowadzony przez Komisję Nadzoru Finansowego. Wyszukaj osobę po nazwisku albo numerze.
 
-✔️ Wejdź do publicznego rejestru Komisji Nadzoru Finansowego (rpu.knf.gov.pl).
-✔️ Wyszukaj agenta po nazwisku lub numerze.
-✔️ Sprawdź, w jakich towarzystwach ma uprawnienia do sprzedaży ubezpieczeń.
+✔️ Krok 2: Sprawdź uprawnienia
+W rejestrze zobaczysz, w jakich towarzystwach ubezpieczeniowych dana osoba ma uprawnienia do dystrybucji ubezpieczeń. To ważne, bo agent może sprzedawać tylko produkty tych firm, z którymi ma umowę.
 
-Warto też zapytać:
+✔️ Krok 3: Zapytaj o szczegóły
 ❓ Z ilu ofert korzysta? Im więcej, tym szersze porównanie.
-❓ Jak jest wynagradzany?
-❓ Co się stanie, jeśli po latach będę miał pytanie albo szkodę?
+❓ Jak jest wynagradzany? W większości przypadków prowizją od ubezpieczyciela, a nie od Ciebie, ale warto to wiedzieć.
+❓ Czy ma zawartą umowę z towarzystwem, w którym kupujesz polisę?
+❓ Co się stanie, gdy po latach będziesz miał pytanie albo szkodę? Czy będzie z Tobą w kontakcie?
 
-Ja mam 21 licencji w różnych towarzystwach i chętnie pokażę, jak je sprawdzić. 😉
+📍 Na co jeszcze uważać?
+● Presja czasu: „oferta tylko dziś".
+● Brak pytań o Twoją sytuację. Dobry doradca zaczyna od potrzeb, a nie od produktu.
+● Brak pisemnego podsumowania, dlaczego ten produkt, a nie inny.
+● Obietnice gwarantowanych zysków przy produktach inwestycyjnych.
+
+Ja mam 21 licencji w różnych towarzystwach ubezpieczeniowych i chętnie pokażę, jak je sprawdzić w rejestrze. Dzięki temu mogę skupić się na analizie Twoich realnych potrzeb i dopasować rozwiązanie jak garnitur szyty na miarę.
+
+💬 Chcesz zapytać o cokolwiek? Zadzwoń albo napisz.
+📞 Zadzwoń: 792 942 509
+✉️ Napisz: oliwier.arning@phinance.pl
 
 #doradztwofinansowe #ubezpieczenia #zaufanie
