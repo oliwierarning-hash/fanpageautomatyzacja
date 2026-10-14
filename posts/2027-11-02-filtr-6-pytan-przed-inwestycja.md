@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-11-02T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2025-10-29-841103671784467.md
 ---
 🔍 Jak nie dać się wkręcić? Filtr sześciu pytań przed każdą inwestycją

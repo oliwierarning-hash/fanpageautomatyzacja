@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-05-18T09:00:00+02:00
-status: draft
+status: ready
 zrodlo: archive/2025-09-18-806135985281236.md
 ---
 🛡️ Czy Twoje ubezpieczenie naprawdę Cię chroni?

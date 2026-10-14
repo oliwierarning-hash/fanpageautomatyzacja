@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-11-16T09:00:00+01:00
-status: draft
+status: ready
 sprawdz: kwoty z kariery Tysona i data upadłości
 zrodlo: archive/2026-02-19-928808016347365.md
 ---

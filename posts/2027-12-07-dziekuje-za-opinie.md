@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-12-07T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2024-06-04-473345508560287.md
 ---
 🙏 Dziękuję za Wasze opinie

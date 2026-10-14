@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-02-16T09:00:00+01:00
-status: draft
+status: ready
 sprawdz: czy zasady podatkowe nadal się zgadzają
 zrodlo: archive/2024-06-27-487086210519550.md
 ---

@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-09-07T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: czy konto mieszkaniowe nadal jest dostępne oraz aktualne warunki i oprocentowanie
 zrodlo: archive/2024-05-16-461830719711766.md
 ---

@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-07-27T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: fakty o pożarze w Ząbkach i czy temat jest jeszcze aktualny
 zrodlo: archive/2025-07-07-748790607682441.md
 ---

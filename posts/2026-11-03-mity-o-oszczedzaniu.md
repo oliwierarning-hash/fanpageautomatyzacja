@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-11-03T09:00:00+01:00
-status: draft
+status: ready
 ---
 3 mity o oszczędzaniu, które słyszę najczęściej 💰
 

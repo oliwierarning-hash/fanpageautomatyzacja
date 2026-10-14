@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-06-22T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: składki i zakres ochrony grup zamkniętych
 zrodlo: archive/2024-03-13-424093360152169.md
 ---

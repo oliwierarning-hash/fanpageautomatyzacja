@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-07-13T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: dodać w komentarzu instrukcję zgłaszania szkody wybranego ubezpieczyciela
 zrodlo: archive/2024-09-20-540346928526811.md
 ---

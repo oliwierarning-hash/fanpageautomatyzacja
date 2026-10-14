@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-03-09T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2024-07-11-495475899680581.md
 ---
 Forex: bezpieczna forma inwestowania czy hazard dla doświadczonych? 🎲

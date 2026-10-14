@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-05-04T09:00:00+02:00
-status: draft
+status: ready
 zrodlo: archive/2025-02-23-649573117604191.md
 ---
 🌍 Droga do pierwszych 100 000 zł, część 4: niech Twoje pieniądze pracują globalnie

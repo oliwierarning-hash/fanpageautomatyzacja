@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-01-19T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2024-07-16-498319576062880.md
 ---
 Konto oszczędnościowe czy lokata? Które wybrać i czy jest coś lepszego? 💰

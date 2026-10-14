@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-09-14T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: wysokość opłat i podatków
 zrodlo: archive/2024-05-14-460838956477609.md
 ---

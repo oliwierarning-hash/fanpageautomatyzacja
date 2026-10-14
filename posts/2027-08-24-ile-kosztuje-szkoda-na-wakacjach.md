@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-08-24T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: ceny leczenia za granicą z 2024 r.
 zrodlo: archive/2024-08-14-515803380981166.md
 ---

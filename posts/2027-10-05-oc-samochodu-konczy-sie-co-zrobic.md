@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-10-05T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: przepisy o wypowiedzeniu OC
 zrodlo: archive/2024-01-30-399857399242432.md
 ---

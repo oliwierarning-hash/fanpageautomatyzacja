@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-06-01T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: dane o wypłatach z 2022 r., zaktualizować jeśli są nowsze
 zrodlo: archive/2024-11-08-575852421642928.md
 ---

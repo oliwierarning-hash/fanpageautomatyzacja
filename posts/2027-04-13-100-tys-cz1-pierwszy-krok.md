@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-04-13T09:00:00+02:00
-status: draft
+status: ready
 zrodlo: archive/2025-01-28-631026872792149.md
 ---
 💰 Droga do pierwszych 100 000 zł, część 1: pierwszy krok

@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-07-20T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: terminy przeglądów w aktualnych przepisach
 zrodlo: archive/2025-04-29-698162179411951.md
 ---

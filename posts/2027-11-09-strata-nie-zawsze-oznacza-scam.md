@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-11-09T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2026-02-12-922803643614469.md
 ---
 🚨 Gwarantowany zysk? Włącz czerwoną lampkę. Ale strata to nie zawsze oszustwo

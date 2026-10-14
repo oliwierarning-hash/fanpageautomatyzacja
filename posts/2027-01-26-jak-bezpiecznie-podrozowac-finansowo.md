@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-01-26T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2024-02-06-404116495483189.md
 ---
 🗺️ Jak bezpiecznie podróżować, także finansowo?

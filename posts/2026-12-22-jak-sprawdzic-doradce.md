@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-12-22T09:00:00+01:00
-status: draft
+status: ready
 sprawdz: opis rejestru KNF i sposobu wynagradzania pośredników
 ---
 🔎 Jak sprawdzić, czy doradca naprawdę ma uprawnienia?

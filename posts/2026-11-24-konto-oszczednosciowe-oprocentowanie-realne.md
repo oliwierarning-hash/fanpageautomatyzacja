@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-11-24T09:00:00+01:00
-status: draft
+status: ready
 ---
 Twoje oszczędności rosną, a mimo to tracą na wartości? Jak to możliwe? 📉
 

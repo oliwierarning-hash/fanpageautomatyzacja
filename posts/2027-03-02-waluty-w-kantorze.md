@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-03-02T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2024-07-09-494257379802433.md
 ---
 Waluty z kantoru jako inwestycja: czy to dobra strategia? 💶

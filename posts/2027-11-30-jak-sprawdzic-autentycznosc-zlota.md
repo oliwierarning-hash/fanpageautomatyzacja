@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-11-30T09:00:00+01:00
-status: draft
+status: ready
 zrodlo: archive/2025-04-24-694669709761198.md
 ---
 🔎 Jak sprawdzić autentyczność złota?

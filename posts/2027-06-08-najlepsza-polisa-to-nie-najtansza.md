@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-06-08T09:00:00+02:00
-status: draft
+status: ready
 zrodlo: archive/2025-10-08-822957763599058.md
 ---
 Ubezpieczenie ma być dobre dla Ciebie, a nie tylko „najlepsze i najtańsze" 🛡️

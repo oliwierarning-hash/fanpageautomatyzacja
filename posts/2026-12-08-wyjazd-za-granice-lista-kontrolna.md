@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-12-08T09:00:00+01:00
-status: draft
+status: ready
 ---
 ✈️ Wyjazd za granicę: lista kontrolna ubezpieczeniowa
 

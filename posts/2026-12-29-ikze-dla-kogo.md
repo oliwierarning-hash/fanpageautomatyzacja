@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-12-29T09:00:00+01:00
-status: draft
+status: ready
 sprawdz: limity wpłat, stawki podatkowe i warunki wypłaty IKZE
 ---
 IKZE: dla kogo tak, a dla kogo nie? 🧾

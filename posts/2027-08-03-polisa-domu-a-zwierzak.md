@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-08-03T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: zakres ubezpieczenia zwierząt i zapisy OWU
 zrodlo: archive/2024-08-21-520518660509638.md
 ---

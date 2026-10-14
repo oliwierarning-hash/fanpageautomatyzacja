@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-12-15T09:00:00+01:00
-status: draft
+status: ready
 ---
 ❗ Polisa, która nie chroni: 6 historii z mojej pracy
 

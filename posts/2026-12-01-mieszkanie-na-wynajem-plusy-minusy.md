@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-12-01T09:00:00+01:00
-status: draft
+status: ready
 ---
 🏠 Mieszkanie na wynajem: bezpieczna przystań czy pułapka?
 

@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-06-29T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: przykładowe świadczenia i karencje
 zrodlo: archive/2024-04-09-439712965256875.md
 ---

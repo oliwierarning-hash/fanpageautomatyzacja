@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-07-06T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: koszt i suma ubezpieczenia OC w życiu prywatnym
 zrodlo: archive/2024-11-12-578643724697131.md
 ---

@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-06-15T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: zakres EKUZ i typowe wyłączenia polis
 zrodlo: archive/2025-07-23-760903059804529.md
 ---

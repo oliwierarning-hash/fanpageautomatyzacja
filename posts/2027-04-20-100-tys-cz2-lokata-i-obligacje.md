@@ -1,6 +1,6 @@
 ---
 publish_at: 2027-04-20T09:00:00+02:00
-status: draft
+status: ready
 sprawdz: oprocentowanie lokat i obligacji
 zrodlo: archive/2025-02-04-635874665640703.md
 ---

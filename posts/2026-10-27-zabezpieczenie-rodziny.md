@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-10-27T09:00:00+01:00
-status: draft
+status: ready
 ---
 Co by się stało z Twoimi finansami, gdybyś przez pół roku nie mógł pracować? 🛡️
 
