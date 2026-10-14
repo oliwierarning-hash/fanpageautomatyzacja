@@ -50,3 +50,7 @@ Są dwa sposoby, żeby post wyszedł ze zdjęciem:
 Gdy jest grafika, tekst posta trafia jako podpis zdjęcia. Posty bez grafiki wychodzą jako zwykły tekst.
 
 W szkicach z archiwum pole `sprawdz:` wskazuje fakty do weryfikacji przed zmianą na `ready`, a `zrodlo:` wskazuje oryginał w `archive/`. Skrypt ignoruje oba pola.
+
+### Generator grafik
+
+Markowe grafiki (tytuł, hashtag w prawym górnym rogu, zdjęcie, dane kontaktowe) powstają skryptem `scripts/make_graphics.py` (wymaga Pillow). Tytuły, podtytuły, hashtagi i numery zdjęć są w `assets/grafiki.csv`, a wycięte zdjęcia w `assets/photos/`. Po zmianie tekstu w CSV uruchom skrypt ponownie, a grafika zostanie odtworzona.
