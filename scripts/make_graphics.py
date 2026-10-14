@@ -29,8 +29,8 @@ F_SYM = "/Library/Fonts/Arial Unicode.ttf"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def font(path, size):
-    return ImageFont.truetype(path, int(size * S))
+def font(path, size, index=0):
+    return ImageFont.truetype(path, int(size * S), index=index)
 
 
 def poly(points):
@@ -75,35 +75,35 @@ def render(title, sub, tag, photo_no):
     # hashtag
     tag = tag if tag.startswith("#") else "#" + tag
     for size in range(44, 14, -1):
-        f = font(F_SANS, size)
+        f = font(F_TITLE, size)
         if d.textlength(tag, font=f) <= 330 * S:
             break
-    d.text((665 * S, 96 * S), tag, font=f, fill="white", anchor="mm")
+    d.text((665 * S, 100 * S), tag, font=f, fill="white", anchor="mm")
 
     # tytuł i podtytuł
     fnt, lines, line_h = fit_title(d, title.upper(), 365, 290)
-    sub_f = font(F_TITLE, 15)
+    sub_f = font(F_TITLE, 23)
     sub_lines = wrap(d, sub, sub_f, 365) if sub else []
-    block_h = len(lines) * line_h + (22 + len(sub_lines) * 21 if sub_lines else 0)
+    block_h = len(lines) * line_h + (24 + len(sub_lines) * 32 if sub_lines else 0)
     y = 255 - block_h / 2
     y = max(y, 40)
     for line in lines:
         d.text((28 * S, y * S), line, font=fnt, fill=INK)
         y += line_h
-    y += 22
+    y += 24
     for line in sub_lines:
         d.text((28 * S, y * S), line, font=sub_f, fill=INK)
-        y += 21
+        y += 32
 
     # wizytówka
     d.text((190 * S, 513 * S), "OLIWIER ARNING", font=font(F_NAME, 31), fill="white", anchor="mm")
     d.text((190 * S, 547 * S), "DORADZTWO FINANSOWE", font=font(F_NAME, 18), fill="white", anchor="mm")
     d.rectangle([42 * S, 577 * S, 355 * S, 580 * S], fill="white")
     sym = font(F_SYM, 27)
-    for cy, glyph, text, size in ((628, "☎", PHONE, 26), (682, "✉", EMAIL, 23)):
+    for cy, glyph, text, size in ((628, "☎", PHONE, 29), (682, "✉", EMAIL, 26)):
         d.ellipse([38 * S, (cy - 17) * S, 72 * S, (cy + 17) * S], fill="white")
         d.text((55 * S, cy * S), glyph, font=sym, fill=BLUE, anchor="mm")
-        d.text((86 * S, cy * S), text, font=font(F_SANS, size), fill="white", anchor="lm")
+        d.text((86 * S, cy * S), text, font=font(F_NAME, size, index=4), fill="white", anchor="lm")
     return img.resize(OUT, Image.LANCZOS)
 
 
