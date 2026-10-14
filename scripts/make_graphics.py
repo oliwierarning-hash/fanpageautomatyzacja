@@ -61,6 +61,48 @@ def fit_title(draw, text, max_w, max_h):
     return fnt, lines, line_h
 
 
+def circle(img, cx, cy, r):
+    """Biały okrąg wygładzony przez 4-krotne supersamplowanie."""
+    k = 4
+    box = int((r + 2) * 2 * S)
+    mask = Image.new("L", (box * k, box * k), 0)
+    ImageDraw.Draw(mask).ellipse([2 * S * k, 2 * S * k, (box - 2 * S) * k, (box - 2 * S) * k], fill=255)
+    mask = mask.resize((box, box), Image.LANCZOS)
+    img.paste((255, 255, 255), (int(cx * S - box / 2), int(cy * S - box / 2)), mask)
+
+
+def draw_icon(kind):
+    """Ikona w kolorze niebieskim na przezroczystym tle, przycięta do swojej zawartości."""
+    k = 8
+    size = int(40 * S) * k
+    tile = Image.new("L", (size, size), 0)
+    t = ImageDraw.Draw(tile)
+    c = size / 2
+    if kind == "mail":
+        w, h = size * 0.56, size * 0.40
+        x0, y0, x1, y1 = c - w / 2, c - h / 2, c + w / 2, c + h / 2
+        lw = int(size * 0.045)
+        t.rounded_rectangle([x0, y0, x1, y1], radius=size * 0.04, outline=255, width=lw)
+        t.line([(x0 + lw / 2, y0 + lw / 2), (c, c + h * 0.08), (x1 - lw / 2, y0 + lw / 2)], fill=255, width=lw, joint="curve")
+    else:
+        r = size * 0.30
+        lw = int(size * 0.13)
+        t.arc([c - r, c - r, c + r, c + r], start=20, end=160, fill=255, width=lw)
+        import math
+        for ang in (20, 160):
+            a = math.radians(ang)
+            ex, ey = c + (r - lw / 2) * math.cos(a), c + (r - lw / 2) * math.sin(a)
+            t.ellipse([ex - lw * 0.78, ey - lw * 0.78, ex + lw * 0.78, ey + lw * 0.78], fill=255)
+        tile = tile.rotate(-45, resample=Image.BICUBIC)
+    tile = tile.crop(tile.getbbox())
+    target = int((21 if kind == "phone" else 24) * S)
+    scale = target / max(tile.size)
+    tile = tile.resize((max(1, int(tile.width * scale)), max(1, int(tile.height * scale))), Image.LANCZOS)
+    out = Image.new("RGBA", tile.size, BLUE + (0,))
+    out.putalpha(tile)
+    return out
+
+
 def render(title, sub, tag, photo_no):
     img = Image.new("RGB", (W * S, H * S), "white")
     photo = Image.open(os.path.join(ROOT, "assets/photos", f"foto-{int(photo_no):02d}.png")).convert("RGBA")
@@ -99,10 +141,10 @@ def render(title, sub, tag, photo_no):
     d.text((190 * S, 513 * S), "OLIWIER ARNING", font=font(F_NAME, 31), fill="white", anchor="mm")
     d.text((190 * S, 547 * S), "DORADZTWO FINANSOWE", font=font(F_NAME, 18), fill="white", anchor="mm")
     d.rectangle([42 * S, 577 * S, 355 * S, 580 * S], fill="white")
-    sym = font(F_SYM, 27)
-    for cy, glyph, text, size in ((628, "☎", PHONE, 29), (682, "✉", EMAIL, 26)):
-        d.ellipse([38 * S, (cy - 17) * S, 72 * S, (cy + 17) * S], fill="white")
-        d.text((55 * S, cy * S), glyph, font=sym, fill=BLUE, anchor="mm")
+    for cy, kind, text, size in ((628, "phone", PHONE, 29), (682, "mail", EMAIL, 26)):
+        circle(img, 55, cy, 18)
+        glyph = draw_icon(kind)
+        img.paste(glyph, (int(55 * S - glyph.width / 2), int(cy * S - glyph.height / 2)), glyph)
         d.text((86 * S, cy * S), text, font=font(F_NAME, size, index=4), fill="white", anchor="lm")
     return img.resize(OUT, Image.LANCZOS)
 
