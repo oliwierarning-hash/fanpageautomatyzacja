@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-10-14T09:00:00+02:00
-status: ready
+status: published
 ---
 Poduszka finansowa: ile naprawdę potrzebujesz? 🛡️
 
