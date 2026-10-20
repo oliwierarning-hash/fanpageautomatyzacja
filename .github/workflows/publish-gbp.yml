@@ -1,0 +1,44 @@
+name: Publikuj wpisy GBP
+
+on:
+  schedule:
+    - cron: "10 * * * *" # co godzinę (UTC), chwilę po pełnej godzinie
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Tylko pokaż, co zostałoby opublikowane"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-gbp
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Publikuj
+        env:
+          GBP_CLIENT_ID: ${{ secrets.GBP_CLIENT_ID }}
+          GBP_CLIENT_SECRET: ${{ secrets.GBP_CLIENT_SECRET }}
+          GBP_REFRESH_TOKEN: ${{ secrets.GBP_REFRESH_TOKEN }}
+          GBP_ACCOUNT_ID: ${{ secrets.GBP_ACCOUNT_ID }}
+          GBP_LOCATION_ID: ${{ secrets.GBP_LOCATION_ID }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: python scripts/publish_gbp.py
+      - name: Zapisz status opublikowanych wpisów
+        if: always()
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "autopost-bot@users.noreply.github.com"
+          git add gbp-posts
+          git diff --cached --quiet || (git commit -m "Oznacz wpisy GBP jako opublikowane" && git push)
