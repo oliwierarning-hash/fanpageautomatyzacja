@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-10-20T12:00:00+02:00
-status: ready
+status: published
 link: https://phinance.pl
 ---
 3 mity o oszczędzaniu, które słyszę najczęściej 💰
