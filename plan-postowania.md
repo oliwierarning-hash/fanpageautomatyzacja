@@ -1,6 +1,6 @@
 # Plan ponownego postowania archiwum
 
-Termin: jeden post tygodniowo, we wtorek o 9:00, od 20.10.2026 do 21.12.2027. Szkice z października i listopada idą pierwsze, potem pozostałe w kolejności serii. Posty sezonowe mają stałe terminy.
+Termin: jeden post tygodniowo, we wtorek o 9:00, od 27.10.2026 do 21.12.2027. Szkice z października i listopada idą pierwsze, potem pozostałe w kolejności serii. Posty sezonowe mają stałe terminy.
 
 ## Zasady ulepszania każdego posta
 
@@ -18,83 +18,83 @@ Razem: **52 posty** zaplanowane z 88 w archiwum. Reszta jest pominięta (lista n
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 05.01.2027 | Jak chronić pieniądze przed inflacją: przegląd opcji | `2024-06-12-478067601421411.md` | Hook: liczba/pytanie, tabelka 🟢🔴 zamiast ściany tekstu |
-| 19.01.2027 | Konto oszczędnościowe czy lokata? | `2024-07-16-498319576062880.md` | Skrócić o 40%, dodać przykład w zł |
-| 09.02.2027 | Złoto: kiedy ma sens, a kiedy nie | `2024-06-25-485872487307589.md` | Połączyć z 2025-02-17; dodać ostrzeżenie o zmienności |
-| 16.02.2027 | Grunty i nieruchomości: 3 plusy, 3 minusy | `2024-06-27-487086210519550.md` | Połączyć z 2025-09-12 (działki); zdjęcie zamiast grafiki |
-| 23.02.2027 | PPK: czy warto zostać? | `2024-07-02-490116276883210.md` | Zweryfikować aktualne zasady i dopłaty |
-| 02.03.2027 | Waluty w kantorze: dlaczego to słaby pomysł | `2024-07-09-494257379802433.md` | Jeden mocny przykład kursowy |
-| 09.03.2027 | Forex: dlaczego większość traci | `2024-07-11-495475899680581.md` | Dodać ostrzeżenie o ryzyku; jedno zdanie CTA |
-| 16.03.2027 | Fundusze inwestycyjne: jak wybrać (cz. 1) | `2024-06-18-481555804405924.md` | Połączyć cz. 1 i 2 (2024-06-20) w 2 krótsze posty |
-| 23.03.2027 | OIPE: nowy produkt emerytalny, o którym nikt nie mówi | `2024-07-18-499509489277222.md` | Sprawdzić aktualność produktu |
-| 30.03.2027 | Czy inflacja przestaje rosnąć? Co to znaczy dla Twoich oszczędności | `2024-12-03-592766756618161.md` | Zaktualizować dane na bieżące |
+| 29.12.2026 | Jak chronić pieniądze przed inflacją: przegląd opcji | `2024-06-12-478067601421411.md` | Hook: liczba/pytanie, tabelka 🟢🔴 zamiast ściany tekstu |
+| 05.01.2027 | Konto oszczędnościowe czy lokata? | `2024-07-16-498319576062880.md` | Skrócić o 40%, dodać przykład w zł |
+| 19.01.2027 | Złoto: kiedy ma sens, a kiedy nie | `2024-06-25-485872487307589.md` | Połączyć z 2025-02-17; dodać ostrzeżenie o zmienności |
+| 09.02.2027 | Grunty i nieruchomości: 3 plusy, 3 minusy | `2024-06-27-487086210519550.md` | Połączyć z 2025-09-12 (działki); zdjęcie zamiast grafiki |
+| 16.02.2027 | PPK: czy warto zostać? | `2024-07-02-490116276883210.md` | Zweryfikować aktualne zasady i dopłaty |
+| 23.02.2027 | Waluty w kantorze: dlaczego to słaby pomysł | `2024-07-09-494257379802433.md` | Jeden mocny przykład kursowy |
+| 02.03.2027 | Forex: dlaczego większość traci | `2024-07-11-495475899680581.md` | Dodać ostrzeżenie o ryzyku; jedno zdanie CTA |
+| 09.03.2027 | Fundusze inwestycyjne: jak wybrać (cz. 1) | `2024-06-18-481555804405924.md` | Połączyć cz. 1 i 2 (2024-06-20) w 2 krótsze posty |
+| 16.03.2027 | OIPE: nowy produkt emerytalny, o którym nikt nie mówi | `2024-07-18-499509489277222.md` | Sprawdzić aktualność produktu |
+| 23.03.2027 | Czy inflacja przestaje rosnąć? Co to znaczy dla Twoich oszczędności | `2024-12-03-592766756618161.md` | Zaktualizować dane na bieżące |
 
 ## SERIA 2: Droga do 100 000 zł (5 części w 3 tygodnie)
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 06.04.2027 | 100 zł miesięcznie, 2,6 mln zł? Policzmy to uczciwie | `2024-10-08-553578193870351.md` | Haczyk otwierający; zastrzeżenie o założeniach, wykres |
-| 13.04.2027 | Droga do pierwszych 100 000 zł, cz. 1: pierwszy krok | `2025-01-28-631026872792149.md` | Karuzela / grafika z krokami |
-| 20.04.2027 | Cz. 2: Zaoszczędziłeś kilka tysięcy. Co dalej? | `2025-02-04-635874665640703.md` | Link do cz. 1 w komentarzu |
-| 27.04.2027 | Cz. 3: złoto jako kotwica portfela | `2025-02-17-645170491377787.md` | Ostrożniejsze sformułowania |
-| 04.05.2027 | Cz. 4: Jak sprawić, żeby pieniądze pracowały | `2025-02-23-649573117604191.md` | Dodać konkretny przykład |
-| 11.05.2027 | Cz. 5: Finał: Twój plan na 12 miesięcy | `2025-03-14-663167772911392.md` | Dodać checklistę do zapisania |
+| 30.03.2027 | 100 zł miesięcznie, 2,6 mln zł? Policzmy to uczciwie | `2024-10-08-553578193870351.md` | Haczyk otwierający; zastrzeżenie o założeniach, wykres |
+| 06.04.2027 | Droga do pierwszych 100 000 zł, cz. 1: pierwszy krok | `2025-01-28-631026872792149.md` | Karuzela / grafika z krokami |
+| 13.04.2027 | Cz. 2: Zaoszczędziłeś kilka tysięcy. Co dalej? | `2025-02-04-635874665640703.md` | Link do cz. 1 w komentarzu |
+| 20.04.2027 | Cz. 3: złoto jako kotwica portfela | `2025-02-17-645170491377787.md` | Ostrożniejsze sformułowania |
+| 27.04.2027 | Cz. 4: Jak sprawić, żeby pieniądze pracowały | `2025-02-23-649573117604191.md` | Dodać konkretny przykład |
+| 04.05.2027 | Cz. 5: Finał: Twój plan na 12 miesięcy | `2025-03-14-663167772911392.md` | Dodać checklistę do zapisania |
 
 ## SERIA 3: Ubezpieczenie, które naprawdę chroni
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 18.05.2027 | Czy Twoje ubezpieczenie naprawdę Cię chroni? | `2025-09-18-806135985281236.md` | Historia klienta na początek |
-| 25.05.2027 | 5 pułapek, przez które nie jesteś chroniony | `2025-09-24-810961334798701.md` | Format listy, jedna pułapka = jedno zdanie |
-| 01.06.2027 | „Ubezpieczalnie nie wypłacają świadczeń”: kiedy to prawda | `2024-11-08-575852421642928.md` | Jeden prawdziwy przykład odmowy |
-| 08.06.2027 | Najlepsza polisa to nie najtańsza | `2025-10-08-822957763599058.md` | Połączyć z 2026-11-19 (już zaplanowane) |
-| 22.06.2027 | Ubezpieczenie grupowe w pracy: czy wystarczy? (cz. 1) | `2024-03-13-424093360152169.md` | Zamiast 3 długich części: 2 krótkie |
-| 29.06.2027 | Ubezpieczenie grupowe: jak je analizować (cz. 2) | `2024-04-09-439712965256875.md` | Checklista 5 pytań |
-| 06.07.2027 | Pies pogryzł piłkę przyjaciółki. Czy to pokrywa OC? | `2024-11-12-578643724697131.md` | Historia na zdjęcie, krótka |
-| 13.07.2027 | Zdarzyła Ci się szkoda? Co zrobić w pierwszej godzinie | `2024-09-20-540346928526811.md` | Format kroków 1-2-3 |
-| 20.07.2027 | Przeglądy techniczne a odmowa wypłaty z polisy domu | `2025-04-29-698162179411951.md` | Scalić z 2025-10-15 (duplikat) |
-| 27.07.2027 | Pożar, który zostawił setki ludzi bez domu: czego uczy | `2025-07-07-748790607682441.md` | Zweryfikować fakty, wrażliwy ton |
-| 03.08.2027 | Polisa dla psa i kota: co obejmuje | `2024-08-21-520518660509638.md` | Zdjęcie zwierzaka |
-| 10.08.2027 | Ubezpieczenie telefonu: kiedy to się opłaca | `2024-08-06-510880694806768.md` | Połączyć z 2024-04-18 |
+| 11.05.2027 | Czy Twoje ubezpieczenie naprawdę Cię chroni? | `2025-09-18-806135985281236.md` | Historia klienta na początek |
+| 18.05.2027 | 5 pułapek, przez które nie jesteś chroniony | `2025-09-24-810961334798701.md` | Format listy, jedna pułapka = jedno zdanie |
+| 25.05.2027 | „Ubezpieczalnie nie wypłacają świadczeń”: kiedy to prawda | `2024-11-08-575852421642928.md` | Jeden prawdziwy przykład odmowy |
+| 01.06.2027 | Najlepsza polisa to nie najtańsza | `2025-10-08-822957763599058.md` | Połączyć z 2026-11-19 (już zaplanowane) |
+| 08.06.2027 | Ubezpieczenie grupowe w pracy: czy wystarczy? (cz. 1) | `2024-03-13-424093360152169.md` | Zamiast 3 długich części: 2 krótkie |
+| 22.06.2027 | Ubezpieczenie grupowe: jak je analizować (cz. 2) | `2024-04-09-439712965256875.md` | Checklista 5 pytań |
+| 29.06.2027 | Pies pogryzł piłkę przyjaciółki. Czy to pokrywa OC? | `2024-11-12-578643724697131.md` | Historia na zdjęcie, krótka |
+| 06.07.2027 | Zdarzyła Ci się szkoda? Co zrobić w pierwszej godzinie | `2024-09-20-540346928526811.md` | Format kroków 1-2-3 |
+| 13.07.2027 | Przeglądy techniczne a odmowa wypłaty z polisy domu | `2025-04-29-698162179411951.md` | Scalić z 2025-10-15 (duplikat) |
+| 20.07.2027 | Pożar, który zostawił setki ludzi bez domu: czego uczy | `2025-07-07-748790607682441.md` | Zweryfikować fakty, wrażliwy ton |
+| 27.07.2027 | Polisa dla psa i kota: co obejmuje | `2024-08-21-520518660509638.md` | Zdjęcie zwierzaka |
+| 03.08.2027 | Ubezpieczenie telefonu: kiedy to się opłaca | `2024-08-06-510880694806768.md` | Połączyć z 2024-04-18 |
 
 ## SERIA 4: Kredyty i mieszkanie
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 17.08.2027 | Zdolność kredytowa: od czego naprawdę zależy | `2024-05-23-466414389253399.md` | Aktualne zasady oceny |
-| 31.08.2027 | Jak zebrać wkład własny | `2024-05-21-465146859380152.md` | Plan 12-miesięczny w punktach |
-| 07.09.2027 | Konto mieszkaniowe: czy warto? | `2024-05-16-461830719711766.md` | Zweryfikować aktualną ofertę |
-| 14.09.2027 | Koszty okołokredytowe, o których nikt nie mówi | `2024-05-14-460838956477609.md` | Lista z kwotami przykładowymi |
-| 21.09.2027 | Nadpłata kredytu: o czym pamiętać | `2024-05-09-457644873463684.md` | Dopisać przykład |
-| 28.09.2027 | Rosną stopy procentowe: co z Twoim kredytem | `2022-03-28-140193558538978.md` | Przepisać pod dzisiejszą sytuację |
+| 10.08.2027 | Zdolność kredytowa: od czego naprawdę zależy | `2024-05-23-466414389253399.md` | Aktualne zasady oceny |
+| 17.08.2027 | Jak zebrać wkład własny | `2024-05-21-465146859380152.md` | Plan 12-miesięczny w punktach |
+| 31.08.2027 | Konto mieszkaniowe: czy warto? | `2024-05-16-461830719711766.md` | Zweryfikować aktualną ofertę |
+| 07.09.2027 | Koszty okołokredytowe, o których nikt nie mówi | `2024-05-14-460838956477609.md` | Lista z kwotami przykładowymi |
+| 14.09.2027 | Nadpłata kredytu: o czym pamiętać | `2024-05-09-457644873463684.md` | Dopisać przykład |
+| 21.09.2027 | Rosną stopy procentowe: co z Twoim kredytem | `2022-03-28-140193558538978.md` | Przepisać pod dzisiejszą sytuację |
 
 ## SERIA 5: Samochód
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 05.10.2027 | Kończy się OC samochodu: co zrobić | `2024-01-30-399857399242432.md` | Wersja checklista |
-| 12.10.2027 | Po zakupie samochodu: o czym pamiętać (PCC i OC) | `2024-01-23-395669072994598.md` | Zweryfikować przepisy |
-| 19.10.2027 | Kary za brak OC w 2027 | `2024-01-25-396936439534528.md` | Przeliczyć na nową płacę minimalną |
+| 28.09.2027 | Kończy się OC samochodu: co zrobić | `2024-01-30-399857399242432.md` | Wersja checklista |
+| 05.10.2027 | Po zakupie samochodu: o czym pamiętać (PCC i OC) | `2024-01-23-395669072994598.md` | Zweryfikować przepisy |
+| 12.10.2027 | Kary za brak OC w 2027 | `2024-01-25-396936439534528.md` | Przeliczyć na nową płacę minimalną |
 
 ## SERIA 6: Nie daj się oszukać
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 26.10.2027 | Nie wszystko, co nazywa się inwestycją, nią jest | `2025-10-22-835091552385679.md` | Dodać przykład z życia |
-| 02.11.2027 | Filtr 6 pytań przed każdą inwestycją | `2025-10-29-841103671784467.md` | Grafika do zapisania |
-| 09.11.2027 | Gwarantowany zysk? Zapala się czerwona lampka | `2026-02-12-922803643614469.md` | Połączyć z poprzednim |
-| 16.11.2027 | Mike Tyson: 400 mln dolarów i bankructwo (cz. 1) | `2026-02-19-928808016347365.md` | Wersja wideo/karuzela, 3 błędy w 1 poście |
-| 23.11.2027 | Co Tyson mógł zrobić inaczej (Kiyosaki) | `2026-03-12-945345308026969.md` | Połączyć 2026-02-26 i 2026-03-05 |
-| 30.11.2027 | Jak sprawdzić autentyczność złota | `2025-04-24-694669709761198.md` | Zdjęcia, krok po kroku |
+| 19.10.2027 | Nie wszystko, co nazywa się inwestycją, nią jest | `2025-10-22-835091552385679.md` | Dodać przykład z życia |
+| 26.10.2027 | Filtr 6 pytań przed każdą inwestycją | `2025-10-29-841103671784467.md` | Grafika do zapisania |
+| 02.11.2027 | Gwarantowany zysk? Zapala się czerwona lampka | `2026-02-12-922803643614469.md` | Połączyć z poprzednim |
+| 09.11.2027 | Mike Tyson: 400 mln dolarów i bankructwo (cz. 1) | `2026-02-19-928808016347365.md` | Wersja wideo/karuzela, 3 błędy w 1 poście |
+| 16.11.2027 | Co Tyson mógł zrobić inaczej (Kiyosaki) | `2026-03-12-945345308026969.md` | Połączyć 2026-02-26 i 2026-03-05 |
+| 23.11.2027 | Jak sprawdzić autentyczność złota | `2025-04-24-694669709761198.md` | Zdjęcia, krok po kroku |
 
 ## SERIA 7: Osobiste i budowanie zaufania (z największym zaangażowaniem)
 
 | Data | Nowy temat | Źródło w archiwum | Co poprawić |
 |---|---|---|---|
-| 07.12.2027 | Dziękuję za opinie | `2024-06-04-473345508560287.md` | Zdjęcie, nowa liczba opinii |
-| 14.12.2027 | Poznaj Oliwiera: droga na stanowisko kierownika zespołu | `2025-01-22-1128639492601622.md` | Nowe wideo, zaktualizowana historia |
-| 21.12.2027 | Hi Friends: finance in Poland for foreigners | `2025-03-01-653933283834841.md` | Zostawić po angielsku; zaktualizować przykłady |
-| 28.12.2027 | Dlaczego zostałem doradcą | `2021-12-27-105136788711322.md` | Wersja osobista, zdjęcie |
+| 30.11.2027 | Dziękuję za opinie | `2024-06-04-473345508560287.md` | Zdjęcie, nowa liczba opinii |
+| 07.12.2027 | Poznaj Oliwiera: droga na stanowisko kierownika zespołu | `2025-01-22-1128639492601622.md` | Nowe wideo, zaktualizowana historia |
+| 14.12.2027 | Hi Friends: finance in Poland for foreigners | `2025-03-01-653933283834841.md` | Zostawić po angielsku; zaktualizować przykłady |
+| 21.12.2027 | Dlaczego zostałem doradcą | `2021-12-27-105136788711322.md` | Wersja osobista, zdjęcie |
 
 ## SEZONOWE (przesunięte na właściwy termin)
 
