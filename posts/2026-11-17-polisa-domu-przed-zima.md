@@ -1,7 +1,6 @@
 ---
 publish_at: 2026-11-17T09:00:00+01:00
 status: ready
-sprawdz: zakres klauzul pogodowych w polisie
 ---
 🏠 Jesień i zima: co sprawdzić w polisie domu, zanim będzie za późno
 

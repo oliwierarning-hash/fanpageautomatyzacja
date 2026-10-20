@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-12-21T09:00:00+01:00
 status: ready
-sprawdz: aktualność przykładów i oferty dla cudzoziemców
 zrodlo: archive/2025-03-01-653933283834841.md
 ---
 Hi friends! 👋

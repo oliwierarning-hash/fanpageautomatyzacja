@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-10-05T09:00:00+02:00
 status: ready
-sprawdz: przepisy o wypowiedzeniu OC
 zrodlo: archive/2024-01-30-399857399242432.md
 ---
 🚗 Niedługo kończy się ubezpieczenie OC samochodu? Co należy zrobić?

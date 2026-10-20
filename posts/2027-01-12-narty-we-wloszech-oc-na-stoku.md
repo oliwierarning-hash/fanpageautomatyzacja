@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-01-12T09:00:00+01:00
 status: ready
-sprawdz: przepisy włoskie dotyczące OC na stoku, wysokość mandatu
 zrodlo: archive/2024-01-18-392764499951722.md
 ---
 ⛷️ Jedziesz na narty do Włoch? Od 2022 roku obowiązuje tam OC na stoku

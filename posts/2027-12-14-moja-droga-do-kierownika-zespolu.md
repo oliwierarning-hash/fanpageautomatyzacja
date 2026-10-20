@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-12-14T09:00:00+01:00
 status: ready
-sprawdz: aktualne stanowisko i dane do filmu; dodać plik wideo/zdjęcie
 zrodlo: archive/2025-01-22-1128639492601622.md
 ---
 🚀 Moja droga: od młodego doradcy do kierownika zespołu

@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-05-25T09:00:00+02:00
 status: ready
-sprawdz: warunki zmiany polisy bankowej
 zrodlo: archive/2025-09-24-810961334798701.md
 ---
 ❗ Ubezpieczenie z banku: wygodne, ale często nieskuteczne

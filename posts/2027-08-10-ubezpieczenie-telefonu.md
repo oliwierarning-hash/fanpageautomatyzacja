@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-08-10T09:00:00+02:00
 status: ready
-sprawdz: koszt ubezpieczenia sprzętu (3 do 10% wartości)
 zrodlo: archive/2024-08-06-510880694806768.md
 ---
 📱 Ubezpieczenie telefonu: czy to się opłaca?

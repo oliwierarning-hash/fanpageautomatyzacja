@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-03-16T09:00:00+01:00
 status: ready
-sprawdz: aktualne limity opłat funduszy
 zrodlo: archive/2024-06-18-481555804405924.md
 ---
 Fundusz inwestycyjny: na co patrzeć, zanim wpłacisz pieniądze? 📊

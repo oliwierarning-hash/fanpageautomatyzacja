@@ -49,7 +49,7 @@ Są dwa sposoby, żeby post wyszedł ze zdjęciem:
 
 Gdy jest grafika, tekst posta trafia jako podpis zdjęcia. Posty bez grafiki wychodzą jako zwykły tekst.
 
-W szkicach z archiwum pole `sprawdz:` wskazuje fakty do weryfikacji przed zmianą na `ready`, a `zrodlo:` wskazuje oryginał w `archive/`. Skrypt ignoruje oba pola.
+Pole `zrodlo:` w postach wskazuje oryginał w `archive/`. Skrypt je ignoruje.
 
 ### Generator grafik
 

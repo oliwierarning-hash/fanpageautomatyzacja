@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-10-12T09:00:00+02:00
 status: ready
-sprawdz: wysokość PCC i wyjątki, przepisy o OC i badaniu technicznym
 zrodlo: archive/2024-01-23-395669072994598.md
 ---
 🚗 Po zakupie samochodu: co musisz wiedzieć i załatwić

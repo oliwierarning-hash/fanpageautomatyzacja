@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-01-05T09:00:00+01:00
 status: ready
-sprawdz: oprocentowanie, opłaty za wcześniejszy wykup i dostępne emisje
 zrodlo: archive/2024-06-12-478067601421411.md
 ---
 Obligacje skarbowe: bezpieczne oszczędzanie od 100 zł 🇵🇱

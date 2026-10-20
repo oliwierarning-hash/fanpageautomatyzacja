@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-03-30T09:00:00+02:00
 status: ready
-sprawdz: zastąpić dane z 2018-2023 aktualnymi, jeśli to możliwe
 zrodlo: archive/2024-12-03-592766756618161.md
 ---
 Co inflacja zrobiła z Twoimi oszczędnościami przez ostatnie lata? 📉

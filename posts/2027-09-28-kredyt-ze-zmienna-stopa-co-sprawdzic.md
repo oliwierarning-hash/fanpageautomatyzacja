@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-09-28T09:00:00+02:00
 status: ready
-sprawdz: aktualna stawka referencyjna (WIBOR/WIRON) i zasady zmiany oprocentowania
 zrodlo: archive/2022-03-28-140193558538978.md
 ---
 🏠 Masz kredyt ze zmienną stopą procentową? Sprawdź w umowie trzy rzeczy

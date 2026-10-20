@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-02-04T09:00:00+01:00
 status: ready
-sprawdz: dane o cukrzycy w Polsce i na świecie (źródła w archiwum)
 zrodlo: archive/2024-02-08-405271228701049.md
 ---
 🍩 Tłusty czwartek, cukrzyca i ubezpieczenie: o czym warto pamiętać

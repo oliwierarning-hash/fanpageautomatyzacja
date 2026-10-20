@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-10-26T09:00:00+02:00
 status: ready
-sprawdz: przykłady produktów i aktualne ostrzeżenia KNF
 zrodlo: archive/2025-10-22-835091552385679.md
 ---
 💸 Nie wszystko, co nazywa się inwestycją, naprawdę nią jest. Jak nie dać się złapać?

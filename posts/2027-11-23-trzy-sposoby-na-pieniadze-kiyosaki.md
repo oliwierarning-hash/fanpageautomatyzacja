@@ -1,7 +1,6 @@
 ---
 publish_at: 2027-11-23T09:00:00+01:00
 status: ready
-sprawdz: streszczenie koncepcji Kiyosakiego
 zrodlo: archive/2026-03-12-945345308026969.md
 ---
 🧭 Trzy sposoby, w jakie ludzie obchodzą się z pieniędzmi (według Roberta Kiyosakiego)
