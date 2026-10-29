@@ -15,6 +15,10 @@ LOCATION = os.environ["GBP_LOCATION_ID"]
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 DEFAULT_LINK = os.environ.get("GBP_DEFAULT_LINK", "https://phinance.pl")
 MAX_LEN = 1500
+IMAGE_BASE = "https://raw.githubusercontent.com/{repo}/{branch}/images/".format(
+    repo=os.environ.get("GITHUB_REPOSITORY", "oliwierarning-hash/fanpageautomatyzacja"),
+    branch=os.environ.get("GITHUB_REF_NAME", "main"),
+)
 
 FRONT = re.compile(r"\A---\n(.*?)\n---\n(.*)\Z", re.S)
 
@@ -46,7 +50,15 @@ def access_token():
     return r.json()["access_token"]
 
 
-def publish(token, meta, text):
+def image_url(path):
+    """Grafika o tej samej nazwie co wpis (images/<nazwa>.jpg) albo None, gdy jej nie ma."""
+    name = os.path.splitext(os.path.basename(path))[0] + ".jpg"
+    if os.path.exists(os.path.join("images", name)):
+        return IMAGE_BASE + name
+    return None
+
+
+def publish(token, meta, text, photo=None):
     body = {
         "languageCode": "pl",
         "topicType": "STANDARD",
@@ -56,6 +68,8 @@ def publish(token, meta, text):
             "url": meta.get("link") or DEFAULT_LINK,
         },
     }
+    if photo:
+        body["media"] = [{"mediaFormat": "PHOTO", "sourceUrl": photo}]
     return requests.post(
         f"https://mybusiness.googleapis.com/v4/accounts/{ACCOUNT}/locations/{LOCATION}/localPosts",
         json=body,
@@ -87,11 +101,14 @@ def main():
             print(f"UWAGA: {path} ma {len(text)} znaków, zostanie przycięty do {MAX_LEN}")
 
         if DRY_RUN:
-            print(f"[DRY RUN] opublikowałbym: {path}")
+            print(f"[DRY RUN] opublikowałbym: {path} (grafika: {image_url(path) or 'brak'})")
             continue
 
         token = token or access_token()
-        r = publish(token, meta, text)
+        photo = image_url(path)
+        if not photo:
+            print(f"UWAGA: brak grafiki dla {path}, wpis pójdzie bez zdjęcia")
+        r = publish(token, meta, text, photo)
         if r.ok:
             print(f"OK: {path} -> {r.json().get('name')}")
             raw = re.sub(r"^status: ready$", "status: published", raw, count=1, flags=re.M)
