@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-11-03T09:00:00+01:00
-status: ready
+status: published
 ---
 🛡️ OC w życiu prywatnym: 6 sytuacji, o których nikt nie myśli, dopóki się nie wydarzą
 
