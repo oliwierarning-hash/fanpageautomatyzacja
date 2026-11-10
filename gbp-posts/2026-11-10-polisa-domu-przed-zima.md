@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-11-10T09:00:00+01:00
-status: ready
+status: published
 link: https://phinance.pl
 ---
 🏠 Jesień i zima: co sprawdzić w polisie domu, zanim będzie za późno
