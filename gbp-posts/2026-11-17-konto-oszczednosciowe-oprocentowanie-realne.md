@@ -1,6 +1,6 @@
 ---
 publish_at: 2026-11-17T09:00:00+01:00
-status: ready
+status: published
 link: https://phinance.pl
 ---
 Twoje oszczędności rosną, a mimo to tracą na wartości? Jak to możliwe? 📉
